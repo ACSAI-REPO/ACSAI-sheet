@@ -1,4 +1,4 @@
-# Hello good people 
+# Hello good people (Check CA2 branch :) )
 
 ## Usefull Links:
                   Latex editor online: https://it.overleaf.com/ 
