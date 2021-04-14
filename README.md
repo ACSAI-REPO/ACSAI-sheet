@@ -11,7 +11,7 @@
 # Write your name next to the topics you are going to cover 
 (Halliday: 1.1->1.3, 2.1->2.5) -> Benjamin
 
-(Halliday: 3.1-> 3.3)
+(Halliday: 3.1-> 3.3) -> Davide M.
 
 (Halliday: 4.1, 4.2, 4.3) -> Benjamin
 
@@ -31,6 +31,6 @@
 
 (Halliday: 10.6->10.8, 11.4->11.8)
 
-(Halliday: 13.1->13.5)
+(Halliday: 13.1->13.5) -> Davide M.
 
 (Halliday: 14.1->14.6)
