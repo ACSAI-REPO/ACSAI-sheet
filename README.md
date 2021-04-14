@@ -7,11 +7,11 @@
 
 
 # Write your name next to the topics you are going to cover 
-(Halliday: 1.1->1.3, 2.1->2.5)
+(Halliday: 1.1->1.3, 2.1->2.5) -> Benjamin
 
 (Halliday: 3.1-> 3.3)
 
-(Halliday: 4.1, 4.2, 4.3)
+(Halliday: 4.1, 4.2, 4.3) -> Benjamin
 
 (Halliday: 4.4, 4.5, 5.1, 5.2)
 
@@ -21,7 +21,7 @@
 
 (Halliday: 7.4, 7.5, 7.6 , 8.1)
 
-(Halliday: 8.1, 8.2, 8.3, 8.5, 9.1)
+(Halliday: 8.1, 8.2, 8.3, 8.5, 9.1)  -> Benjamin
 
 (Halliday: 9.2->9.6)
 
