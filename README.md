@@ -1,6 +1,9 @@
-# ACSAI-sheet
+# Hello good people 
+
+## Usefull Links: https://it.overleaf.com/ (Latex editor online)
 
 ## Put all the formulas you find on the book, worst case the proffessor will remove what is not needed. I will add more chapters as we go forward
+
 
 
 # Write your name next to the topics you are going to cover 
