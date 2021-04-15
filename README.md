@@ -4,8 +4,8 @@
 
 
 ## Usefull Links:
-                  Latex editor online: https://it.overleaf.com/ 
-                  Quick Tutorial: https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes  
+### * Quick latex tutorial
+ https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes  
 
 ## Put all the formulas you find on the book, worst case the professor will remove what is not needed. I will add more chapters as we go forward
 
