@@ -1,6 +1,7 @@
 # PLEASE READ ME 
 ## DO NOT COMMIT TO MAIN EVEN IF YOU CAN, WE WORK WITH PULL REQUESTS
 * If you do not know how to use gitHub feel free to ask me
+* Read https://github.com/ACSAI-REPO/ACSAI-sheet/issues/4
 
  
 # Check https://github.com/ACSAI-REPO/ACSAI-sheet/blob/main/physics-notes/chapters/vectors/vectors.tex 
