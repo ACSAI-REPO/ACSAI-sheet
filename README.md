@@ -4,10 +4,10 @@
 
 
 ## Usefull Links:
-### * Quick latex tutorial
+### Quick latex tutorial
  https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes  
 
-## Put all the formulas you find on the book, worst case the professor will remove what is not needed. I will add more chapters as we go forward
+# Put all the formulas you find on the book, worst case the professor will remove what is not needed. I will add more chapters as we go forward
 
 # Check the issue tab to see how we are organizing
 # Check the project tab to choose your chapter
