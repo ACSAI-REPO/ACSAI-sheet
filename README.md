@@ -1,6 +1,11 @@
 # PLEASE READ ME 
 ## DO NOT COMMIT TO MAIN EVEN IF YOU CAN, WE WORK WITH PULL REQUESTS
-### If you do not know how to use gitHub feel free to ask me
+* If you do not know how to use gitHub feel free to ask me
+
+ 
+# Check https://github.com/ACSAI-REPO/ACSAI-sheet/blob/main/physics-notes/chapters/vectors/vectors.tex 
+* Our dear friend Davide made the first chapter check the link to get an idea of how to write in latex 
+
 
 
 ## Usefull Links:
