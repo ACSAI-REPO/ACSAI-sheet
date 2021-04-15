@@ -1,3 +1,5 @@
+# DO NOT COMMIT TO MAIN EVEN IF YOU CAN, WE WORK WITH PULL REQUESTS
+
 # Hello good people (Check CA2 branch :) )
 
 ## Usefull Links:
