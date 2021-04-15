@@ -4,17 +4,17 @@
 
 
 ## Usefull Links:
-                  Latex editor online: https://it.overleaf.com/ 
-                  Quick Tutorial: https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes  
+### Quick latex tutorial
+ https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes  
 
-## Put all the formulas you find on the book, worst case the professor will remove what is not needed. I will add more chapters as we go forward
+# Put all the formulas you find on the book, worst case the professor will remove what is not needed. I will add more chapters as we go forward
 
 # Check the issue tab to see how we are organizing
 # Check the project tab to choose your chapter
 
 # Branches: 
  * main : Physics Formula sheet ( Work in progress ) 
- * CA2  : Some risc-v Exercises ( Add only if relevant )
+ * CA2  : Moved to a separate repository ( https://github.com/ACSAI-REPO/CA2-RISCV )
 
 # How to add to the repository 
 Everyone has write access to the repo at the moment. That means that potentially fucks up are behind the corner. 
@@ -28,3 +28,6 @@ To avoid such events Follow these steps.
 * Once you are done with your work you might open a pull request to be reviewed
 * IN ANY CASE IF YOU HAVE A DOUBT FEEL FREE TO ASK
 * IF YOU HAVE NO CLUE OF WHAT YOU ARE DOING WITH GITHUB STOP!!!! AND ASK
+
+
+# https://github.com/ACSAI-REPO 
