@@ -14,7 +14,7 @@
 
 # Branches: 
  * main : Physics Formula sheet ( Work in progress ) 
- * CA2  : Some risc-v Exercises ( Add only if relevant )
+ * CA2  : Moved to a separate repository ( https://github.com/ACSAI-REPO/CA2-RISCV )
 
 # How to add to the repository 
 Everyone has write access to the repo at the moment. That means that potentially fucks up are behind the corner. 
