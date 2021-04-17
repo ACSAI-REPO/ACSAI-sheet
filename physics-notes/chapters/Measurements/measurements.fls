@@ -1,0 +1,4 @@
+PWD d:\Files\Documents\GitHub\ACSAI-sheet\physics-notes\chapters\Measurements
+INPUT C:\Users\surre\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT d:\Files\Documents\GitHub\ACSAI-sheet\physics-notes\chapters\Measurements\measurements.tex
+OUTPUT d:\Files\Documents\GitHub\ACSAI-sheet\physics-notes\chapters\Measurements\measurements.log
