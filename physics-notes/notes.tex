@@ -1,0 +1,30 @@
+\documentclass{scrartcl} % This is the documentclass DONT-TOUCH-THIS
+
+% These are the packages (library imports), if your chapter uses
+% some package which is not here, feel free to add it (except for
+% some special cases like the geometry package, for that ask on GitHub)
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{siunitx}
+\usepackage{epigraph}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{nicefrac}
+
+% Defining the title of the doc.
+\title{Physics' notes}
+\subtitle{by and for the Sapienza's ACSAI 2020/21 students}
+\date{}
+
+\begin{document}
+    \maketitle % prints the title
+    \tableofcontents % prints the indices
+    \newpage
+    \input{chapters/Measurements/measurements.tex}
+    \newpage
+    %\input{chapters/1D Motion/1dmotion.tex}
+    \input{chapters/vectors/vectors.tex}
+    %... so on for all the other chapters
+    \input{chapters/2D-3D-Motion/2d-3d-motion.tex}
+\end{document}

@@ -1,0 +1,46 @@
+% This section written by Davide Marincione
+\section{Measurements}
+\epigraph{We shall use my largest scales!}{Sir Bedivere}
+\paragraph{Intro} Physics is a science based on measurements: in it complex things are to be described and, to do that, we record data and information through units of measure. Every science has to be held by some standards that are shared and comprehended by all of its users; in Math we know that, irrefutably, $1+1=2$: that is because the properties of \emph{addition} and the entity \emph{one} are widely defined such that there can't be any other outcome but \emph{two}. If, on the other hand, we were processing some Boolean Algebra (those that struggled in Computer Architecture know), we would know that $1+1=1$, that is because \emph{boolean addition} and the entity \emph{one} in it are defined differently.\\
+In the same fashion Physics needs three different classes of basic entities over which to build everything else on:
+\begin{itemize}
+    \item Base quantities: mass, time, length\dots
+    \item Standards: scales, ticking of a clock, ruler\dots
+    \item Units of measure: $\si{\kilogram}$, $\si{\second}$, $\si{\metre}$\dots
+\end{itemize}
+An organization which standardized units of measurement is the International System of Units.
+\subsection{Defining some base quantities}
+\paragraph{Time} Time is measured through the second; which is defined as the amount of time passing every $\num{9.192E9}$ oscillations of a specific radiation emitted by a Cesium-133 atom.
+\paragraph{Length} Today a meter is defined as the amount of space travelled in a vacuum by light in a time interval of $\frac{1}{299792458}$ seconds.
+\paragraph{Mass} There exist two different standards for the kilogram:
+\begin{itemize}
+    \item A sample of Platinum-Iridium kept in the International Bureau of Measure (near Paris) is regarded as the standard kilogram (there are some problems with it though; its mass has changed during time as it naturally decays).
+    \item Another standard is the amount of atoms contained by 12 atomic mass units of Carbon-12, where an atomic mass unit $\SI{1}{\atomicmassunit}=\SI{1.66E-27}{\kilogram}$.
+\end{itemize}
+\subsection{Handling measurements}
+\paragraph{Changing units} Of course based on where we are in the world or what task we are trying to accomplish there exist different units of measure for the same quantity, a fundamental thing to know is how to switch between them: some changes are fairly trivial, like going from kilometer to meter ($\SI{1}{\kilo\metre} = \SI{E3}{\metre}$), but others not quite so- an example may be converting minutes to seconds or square kilometers to square miles.\\
+The process is usually the same:
+\begin{enumerate}
+    \item Find/know the equivalence between two units of measure.
+    \item Manipulate the ratio such that the wanted final unit is on top of the fraction.
+    \item Apply the conversion.
+\end{enumerate}
+Following on the previous examples, our procedure would look like this:
+\begin{itemize}
+    \item $\SI{1}{\minute}=\SI{60}{\second}\to 1=\frac{\SI{60}{\second}}{\SI{1}{\minute}}$
+    \begin{align*}
+        t&=\SI{13}{\minute}\\
+        &=1\times\SI{13}{\minute}\\
+        &=\frac{\SI{60}{\second}}{\SI{1}{\minute}}\times\SI{13}{\minute} = \boxed{\SI{7.8E2}{\second}}
+    \end{align*}
+    \item $\SI{1.61}{\kilo\metre} = \SI{1}{\mathrm{mi}}\to 1=\frac{\SI{1}{\mathrm{mi}}}{\SI{1.61}{\kilo\metre}}\to \frac{\SI{1}{\mathrm{mi}^2}}{\SI{2.59}{\square\kilo\metre}}$
+    \begin{align*}
+        A&=\SI{27.0}{\square\kilo\metre}\\
+        &=\frac{\SI{1}{\mathrm{mi}^2}}{\SI{2.59}{\square\kilo\metre}}\times\SI{27.0}{\square\kilo\metre}= \boxed{\SI{10.4}{\mathrm{mi}^2}}
+    \end{align*}
+\end{itemize}
+\paragraph{Significant figures} The significant figures used to represent a quantity depend on the accuracy of the tool which took the survey: to count the amount of significant figures in a number just count all the digits which are \textbf{not} zero, all the zeroes (or groups of) which are in between non-zero figures and all of those zeroes which are deliberately left as decimal digits.\\
+When displaying the result of a calculation, the number of significant figures to be chosen has to be equal to the lower amount of significant figures used by any value of the calculation.
+\begin{equation*}
+    1.22357894\times2.10 = 2.57
+\end{equation*}
