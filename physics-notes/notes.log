@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.29)  18 APR 2021 16:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.29)  18 APR 2021 16:15
 entering extended mode
 **d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/notes.tex
 (d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/notes.tex
@@ -372,11 +372,7 @@ File: chapters/vectors/images/right_hand_rule.pdf Graphic file (type pdf)
 <use chapters/vectors/images/right_hand_rule.pdf>
 Package pdftex.def Info: chapters/vectors/images/right_hand_rule.pdf  used on input line 136.
 (pdftex.def)             Requested size: 125.47794pt x 111.39157pt.
-) [6 <d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/vectors/images/right_hand_rule.pdf>] (d:/Files\Documents\GitHub\ACSAI-sheet\physics-notes\chapters/2D-3D-Motion/2d-3d-motion.tex
-
-Package wrapfig Warning: Collision between wrapping environments on input line 3.
-
-(d:/Files\Documents\GitHub\ACSAI-sheet\physics-notes\chapters/2D-3D-Motion/images/displacement_velocity.pdf_tex
+) [6 <d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/vectors/images/right_hand_rule.pdf>] (d:/Files\Documents\GitHub\ACSAI-sheet\physics-notes\chapters/2D-3D-Motion/2d-3d-motion.tex (d:/Files\Documents\GitHub\ACSAI-sheet\physics-notes\chapters/2D-3D-Motion/images/displacement_velocity.pdf_tex
 <chapters/2D-3D-Motion/images/displacement_velocity.pdf, id=41, page=1, 96.04451pt x 80.02885pt>
 File: chapters/2D-3D-Motion/images/displacement_velocity.pdf Graphic file (type pdf)
 <use chapters/2D-3D-Motion/images/displacement_velocity.pdf, page 1>
@@ -392,14 +388,7 @@ File: chapters/2D-3D-Motion/images/displacement_velocity.pdf Graphic file (type 
 <use chapters/2D-3D-Motion/images/displacement_velocity.pdf, page 3>
 Package pdftex.def Info: chapters/2D-3D-Motion/images/displacement_velocity.pdf , page3 used on input line 63.
 (pdftex.def)             Requested size: 96.04451pt x 80.0323pt.
-)
-
-Package wrapfig Warning: Stationary wrapfigure forced to float on input line 6.
-
-
-Package wrapfig Warning: Stationary wrapfigure forced to float on input line 7.
-
-[7 <d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/2D-3D-Motion/images/displacement_velocity.pdf> <d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/2D-3D-Motion/images/displacement_velocity.pdf
+) [7 <d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/2D-3D-Motion/images/displacement_velocity.pdf> <d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/2D-3D-Motion/images/displacement_velocity.pdf
 
 pdfTeX warning: pdflatex (file d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/2D-3D-Motion/images/displacement_velocity.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 > <d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/2D-3D-Motion/images/displacement_velocity.pdf
@@ -415,7 +404,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  49i,21n,58p,10652b,979s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on d:/Files\Documents\GitHub\ACSAI-sheet\physics-notes\notes.pdf (10 pages, 197236 bytes).
+Output written on d:/Files\Documents\GitHub\ACSAI-sheet\physics-notes\notes.pdf (10 pages, 197188 bytes).
 PDF statistics:
  107 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
