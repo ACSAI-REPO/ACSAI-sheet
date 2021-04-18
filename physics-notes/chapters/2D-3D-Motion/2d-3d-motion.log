@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.29)  18 APR 2021 10:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.29)  18 APR 2021 10:57
 entering extended mode
 **d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/2D-3D-Motion/2d-3d-motion.tex
 (d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/2D-3D-Motion/2d-3d-motion.tex
@@ -284,17 +284,17 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 {C:/Users/surre/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] [3] [4] (d:/Files\Documents\GitHub\ACSAI-sheet\physics-notes\chapters\2D-3D-Motion\2d-3d-motion.aux) ) 
 Here is how much of TeX's memory you used:
- 7482 strings out of 481225
- 169360 string characters out of 2906174
+ 7512 strings out of 481225
+ 170014 string characters out of 2906174
  507741 words of memory out of 3000000
- 23026 multiletter control sequences out of 15000+200000
- 542728 words of font info for 58 fonts, out of 3000000 for 9000
+ 23052 multiletter control sequences out of 15000+200000
+ 544843 words of font info for 66 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 49i,7n,58p,10681b,465s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on d:/Files\Documents\GitHub\ACSAI-sheet\physics-notes\chapters\2D-3D-Motion\2d-3d-motion.pdf (4 pages, 110604 bytes).
+ 49i,9n,58p,10681b,798s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on d:/Files\Documents\GitHub\ACSAI-sheet\physics-notes\chapters\2D-3D-Motion\2d-3d-motion.pdf (4 pages, 105640 bytes).
 PDF statistics:
- 52 PDF objects out of 1000 (max. 8388607)
+ 48 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
