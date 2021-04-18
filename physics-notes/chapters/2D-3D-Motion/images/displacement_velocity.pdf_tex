@@ -53,14 +53,14 @@
   \begin{picture}(1,0.83324748)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
-    \put(0,0){\includegraphics[width=\unitlength,page=1]{images/displacement_velocity.pdf}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{chapters/2D-3D-Motion/images/displacement_velocity.pdf}}%
     \put(-0.00440895,0.00189844){\makebox(0,0)[lt]{\lineheight{1.25}\smash{O}}}%
     \put(0.91084097,0.26571406){\color[rgb]{0.74509804,0.74509804,0.74509804}\makebox(0,0)[lt]{\lineheight{1.25}\smash{A}}}%
     \put(0.10286522,0.75021215){\color[rgb]{0.74509804,0.74509804,0.74509804}\makebox(0,0)[lt]{\lineheight{1.25}\smash{B}}}%
     \put(0.50110242,0.53024706){\color[rgb]{0.31372549,0.31372549,0.31372549}\makebox(0,0)[lt]{\lineheight{1.25}\smash{$\Delta\vec{r}$}}}%
-    \put(0,0){\includegraphics[width=\unitlength,page=2]{images/displacement_velocity.pdf}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{chapters/2D-3D-Motion/images/displacement_velocity.pdf}}%
     \put(0.67237839,0.42919424){\color[rgb]{0,0,0.47058824}\makebox(0,0)[lt]{\lineheight{1.25}\smash{$\vec{v}_{\mathrm{avg}}$}}}%
-    \put(0,0){\includegraphics[width=\unitlength,page=3]{images/displacement_velocity.pdf}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{chapters/2D-3D-Motion/images/displacement_velocity.pdf}}%
     \put(0.35726293,0.40604147){\color[rgb]{0,0,0.78431373}\makebox(0,0)[lt]{\lineheight{1.25}\smash{$\vec{v}$}}}%
   \end{picture}%
 \endgroup%

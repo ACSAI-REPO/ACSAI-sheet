@@ -22,3 +22,20 @@
 \contentsline {paragraph}{\nonumberline Dot product $\cdot $}{6}%
 \contentsline {paragraph}{\nonumberline Cross product $\times $}{6}%
 \contentsline {subparagraph}{\nonumberline Right-hand rule}{6}%
+\contentsline {section}{\numberline {3}Motion in Two and Three Dimensions}{7}%
+\contentsline {subsection}{\numberline {3.1}Basic definitions}{7}%
+\contentsline {paragraph}{\nonumberline Position}{7}%
+\contentsline {subparagraph}{\nonumberline Displacement}{7}%
+\contentsline {paragraph}{\nonumberline Velocity}{7}%
+\contentsline {subparagraph}{\nonumberline Instantaneous Velocity}{7}%
+\contentsline {paragraph}{\nonumberline Acceleration}{7}%
+\contentsline {subparagraph}{\nonumberline Instantaneous Acceleration}{8}%
+\contentsline {subsection}{\numberline {3.2}Applications}{8}%
+\contentsline {paragraph}{\nonumberline Projectile motion}{8}%
+\contentsline {subparagraph}{\nonumberline Horizontal motion}{8}%
+\contentsline {subparagraph}{\nonumberline Vertical motion}{8}%
+\contentsline {subparagraph}{\nonumberline The path's equation}{9}%
+\contentsline {subparagraph}{\nonumberline The horizontal range}{9}%
+\contentsline {paragraph}{\nonumberline Uniform Circular Motion}{9}%
+\contentsline {paragraph}{\nonumberline Relative motion in one dimension}{9}%
+\contentsline {paragraph}{\nonumberline Relative motion in multiple dimensions}{10}%

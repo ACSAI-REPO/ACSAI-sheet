@@ -1,0 +1,147 @@
+\documentclass{scrartcl}
+
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{siunitx}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{xcolor}
+
+\begin{document}
+    % Section by Andrea Caminniti (some refactoring by Davide Marincione)
+    \section{Motion in Two and Three Dimensions}
+    \begin{wrapfigure}{l}{0.25\textwidth}
+        \input{images/displacement_velocity.pdf_tex}
+    \end{wrapfigure}
+    As previously stated in the Vector section, the base definition of vector is the movement from one point to another: it is only natural that \emph{real} movement may be described through vectors.
+    \subsection{Basic definitions}
+    \paragraph{Position} It can be described through a vector that extends from a reference point to a particle, letting the user know its position; in unit vector notation:
+    \begin{equation}
+        \vec{r} = x\hat{i}+y\hat{j}+z\hat{k}
+    \end{equation}
+    \subparagraph{Displacement} If we let the particle move, its position vector will change. This difference can be reflected through the displacement $\Delta\vec{r}$, which is:
+    \begin{equation}
+        \Delta\vec{r}= \vec{r_2} - \vec{r_1}
+    \end{equation}
+    Or, in unit vector notation:
+    \begin{equation}
+        \Delta\vec{r} = (x_2 - x_1) \hat{i} + (y_2 - y_1) \hat{j} + (z_2 - z_1) \hat{k}
+    \end{equation}
+    \paragraph{Velocity} When a particle moves through a displacement-$\Delta r$ in a time interval $\Delta t$, its average velocity is:
+    \begin{equation}
+        \vec{v}_{\mathrm{avg}} = \frac{\Delta\vec{r}}{\Delta t}
+    \end{equation}
+    The equation clarifies that the direction of the velocity will be the same as the direction of the displacement, in vector notation:
+    \begin{equation}
+        \vec{v}_{\mathrm{avg}} = \frac{\Delta x \hat{i} + \Delta y \hat{j} + \Delta z \hat{k}}{\Delta t} = \frac{\Delta x}{\Delta t} \hat{i} + \frac{\Delta y}{\Delta t} \hat{j} + \frac{\Delta z}{\Delta t} \hat{k}
+    \end{equation}
+    \subparagraph{Instantaneous Velocity} To find the velocity of a particle at instant $t$ we take the value that $\vec{v}_{\mathrm{avg}}$ assumes as the interval $\Delta t$ approaches $0$.
+    \begin{equation}
+        \vec{x} = \frac{d\vec{r}}{dt}
+    \end{equation}
+    Or, in unit vector notation:
+    \begin{equation}
+        \vec{v} = v_x \hat{i} + v_y \hat{j} + v_z \hat{k}\quad \leftarrow\quad v_x= \frac{dx}{dt},\quad v_y= \frac{dy}{dt},\quad v_z= \frac{dz}{dt}
+    \end{equation}
+    \paragraph{Acceleration} When a particle's velocity changes, its average acceleration $\vec{a}_{avg}$ is:
+    \begin{equation}
+        \vec{a}_{\mathrm{avg}} = \frac{\vec{v}_2 - \vec{v}_1}{\Delta t} = \frac{\Delta \vec{v} }{\Delta t}
+    \end{equation}
+    \subparagraph{Instantaneous Acceleration} As for the velocity, to know the acceleration in an instant $t$, we take the value $\vec{a}_{\mathrm{avg}}$ assumes as the interval $\Delta{t}$ approaches $0$.
+    \begin{equation}
+        \vec{a} = \frac{d\vec{v}}{dt}
+    \end{equation}
+    In unit vector notation:
+    \begin{equation}
+        \vec{a} = a_x \hat{i} + a_y \hat{j} + a_z \hat{k}\quad\leftarrow\quad a_x = \frac{dv_x}{dt},\quad a_y = \frac{dv_y}{dt},\quad a_z = \frac{dv_z}{dt}
+    \end{equation}
+    The direction of an acceleration vector does not extend from one position to another, it just shows the direction for a particle located at its tail.
+    \subsection{Applications}
+    \paragraph{Projectile motion} A special case of two-dimensional motion, the particle moves with a constant acceleration directed downwards: the free fall acceleration $\vec{g}$. When the projectile is launched, its initial velocity $\vec{v}_0$ is writable as: 
+    \begin{equation}
+        \vec{v}_0 = v_{0x} \hat{i} + v_{0y} \hat{j}
+    \end{equation}
+    The two components $v_{0x}$ and $v_{0y}$ can be found if we know the angle $\theta_0$ between $\vec{v_0}$ and the positive $x$ direction:
+    \begin{equation}
+        v_{0x} = v_0 \cos \theta_0,\quad v_{0y} = v_0\sin\theta_0
+    \end{equation}
+    During the motion both position vector $\vec{r}$ and velocity vector $\vec{v}$ change continuously, though the acceleration remain constant. (There's no horizontal acceleration!)
+    The two motions are independent of each other. The horizontal motion has no effect on the vertical one.
+    
+    \subparagraph{Horizontal motion} Since there is no acceleration, the horizontal component $v_x$ remains unchanged: therefore at any time $t$ the horizontal displacement $x - x_0$ is:
+    \begin{equation}\label{eq:hor_motion}
+        x - x_0 = v_{0x}t
+    \end{equation}
+    % Isn't this redundant?
+    %Since $v_{0x} = v_0 \cos \theta_0$
+    %\begin{equation}
+    %    x - x_0 = (v_0 \cos \theta_0)t
+    %\end{equation}
+    
+    \subparagraph{Vertical motion} Since the acceleration is constant we can apply the equation we have seen in the one dimensional motion chapter. Thus, we have the displacement $y- y_0$
+    \begin{equation}\label{eq:ver_motion}
+        y - y_0 = v_{0y}t - \frac{1}{2}gt^2
+    \end{equation}
+
+    Similarly, for the final velocity $v_y$
+    \begin{equation}
+        v_y = v_{0y} - gt\qquad v^2_y = v_{0y}^2 - 2g(y-y_0)
+    \end{equation}
+    \subparagraph{The path's equation} We can find the equation of the path of the projectile (called \emph{trajectory}) by solving equation (\ref{eq:hor_motion}) for $t$ and substituting into equation (\ref{eq:ver_motion}).
+    \begin{equation}
+        y = (\tan \theta_0)x - \frac{gx^2}{2v_{0x}^2}
+    \end{equation}
+    \subparagraph{The horizontal range} The horizontal distance the projectile has traveled when it returns to its initial height is called horizontal range $R$:
+    \begin{equation}
+        R = \frac{v^2_0}{g} \sin(2\theta_0)
+    \end{equation}
+    The maximum horizontal range $R$ can be reached at angle $\theta = \SI{45}{\degree}=\frac{\pi}{4}$.
+    
+    Calculation done with the formula seen in this paragraph may differ a lot with the actual motion of the projectile as we assume the air has no effect on the projectile. 
+    
+    \paragraph{Uniform Circular Motion} A particle in uniform circular motion travels around a circle or a circular arc at constant speed. However, since the particle is moving in circles the direction of the velocity changes, thus the particle is accelerating. Velocity is always directed tangent to the circle in the direction of motion, while the acceleration is directed radially inward. Because of this, the acceleration is called centripetal acceleration. The magnitude of this acceleration $\vec{a}$ is:
+    \begin{equation}
+        a = \frac{v^2}{r}
+    \end{equation}
+    where r is the radius of the circle and v is the speed.
+    
+    During the motion, the particle travels the circumference of the circle in time $T$:
+    \begin{equation}
+        T = \frac{2\pi r}{v}
+    \end{equation}
+    $T$ is called \emph{period of revolution} or simply \emph{period}.
+    
+    \paragraph{Relative motion in one dimension} The velocity of a particle depends on the reference frame of whoever is observing it. Let's have two reference frames A and B, both observing a particle P, then the following equations hold:
+    \begin{itemize}
+        \item Position:
+        \begin{equation} \label{eq:rel_pos_1D}
+            x_{\mathrm{PA}} = x_{\mathrm{PB}} + x_{\mathrm{BA}}
+        \end{equation}
+        \item Velocity, the time derivative of equation (\ref{eq:rel_pos_1D}):
+        \begin{equation} \label{eq:rel_vel_1D}
+            v_{\mathrm{PA}} = v_{\mathrm{PB}} + v_{\mathrm{BA}}
+        \end{equation}
+        \item Acceleration, the time derivative of equation (\ref{eq:rel_vel_1D}), since $v_{\mathrm{BA}}$ is constant the derivative will be $0$, thus:
+        \begin{equation}
+            a_{\mathrm{PA}} = a_{\mathrm{PB}}
+        \end{equation}
+        Observers on different frames of reference that move at constant velocity relative to each other will measure the same acceleration for a moving particle.
+    \end{itemize}
+    \paragraph{Relative motion in multiple dimensions} Similarly as in one dimension: by having two reference frames A and B, both observing a particle P, the following equations hold:
+    \begin{itemize}
+        \item Position:
+        \begin{equation} \label{eq:rel_pos_2D}
+            \vec{r}_{\mathrm{PA}} = \vec{r}_{\mathrm{PB}} + \vec{r}_{\mathrm{BA}}
+        \end{equation}
+        \item Velocity, the time derivative of equation (\ref{eq:rel_pos_2D}):
+        \begin{equation} \label{eq:rel_vel_2D}
+            \vec{v}_{\mathrm{PA}} = \vec{v}_{\mathrm{PB}} + \vec{v}_{\mathrm{BA}}
+        \end{equation}
+        \item Acceleration, the time derivative of equation (\ref{eq:rel_vel_2D}), since $v_{\mathrm{BA}}$ is constant the derivative will be $0$, thus:
+        \begin{equation}
+            \vec{a}_{\mathrm{PA}} = \vec{a}_{\mathrm{PB}}
+        \end{equation}
+        The same rule of one dimensional motion holds, observers on different frames of reference that move at constant velocity relative to each other will measure the same acceleration for a moving particle. 
+    \end{itemize}
+\end{document}
