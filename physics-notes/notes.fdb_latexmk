@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1618755330 "d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/notes.tex" "d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/notes.pdf" "notes" 1618755337
+["pdflatex"] 1618755330 "d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/notes.tex" "d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/notes.pdf" "notes" 1618755623
   "C:/Users/surre/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1596033721 10051121 4c44397a6dcd52bc96aa98c74adc1a23 ""
   "C:/Users/surre/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1618475017 327672 99218123e1cc95b3ee430511654f9cce ""
   "C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1001775420 2900 1537cc8184ad1792082cd229ecc269f4 ""
@@ -102,16 +102,16 @@
   "chapters/vectors/images/right_hand_rule.pdf" 1618754455 4860 8e4f1642afeadb8a69c35c5bc04e9a01 ""
   "chapters/vectors/images/vector_basic.pdf" 1618754455 1358 578dc28c4711450b421f15574007bb99 ""
   "chapters/vectors/images/vector_basic.pdf_tex" 1618754455 2419 670a2073d919b9c729d242ebf301d72e ""
-  "chapters/vectors/vectors.tex" 1618755337 10517 0a638da4ef5700803e3fca036d4f3ddc ""
+  "chapters/vectors/vectors.tex" 1618755623 10517 0a638da4ef5700803e3fca036d4f3ddc ""
   "d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/notes.aux" 1618755331 4699 7eedaeb82a842b297648eb5940f4e325 ""
   "d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/notes.tex" 1618755225 998 a1a36d4b7f66be7aef67f3128cab140a ""
   "notes.aux" 1618755331 4699 7eedaeb82a842b297648eb5940f4e325 "pdflatex"
   "notes.tex" 1618755225 998 a1a36d4b7f66be7aef67f3128cab140a ""
   "notes.toc" 1618755331 2641 a4c060f5d3ec59d4b7f6386b59e6974b "pdflatex"
   (generated)
+  "notes.log"
   "notes.pdf"
+  "d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/notes.log"
   "notes.aux"
   "notes.toc"
   "d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/notes.pdf"
-  "d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/notes.log"
-  "notes.log"
