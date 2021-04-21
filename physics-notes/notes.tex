@@ -7,11 +7,16 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 \usepackage{siunitx}
-\usepackage{epigraph}
-\usepackage{graphicx}
-\usepackage{wrapfig}
 \usepackage{nicefrac}
-\usepackage{xcolor}
+\usepackage{tabularx}
+
+\newcommand{\tabeq}[1]{\parbox[c]{\hsize}{\begin{equation*}#1\end{equation*}}}
+
+\sisetup{
+    quotient-mode = fraction,
+    per-mode = fraction,
+    fraction-function=\nicefrac
+}
 
 % Defining the title of the doc.
 \title{Physics' notes}
@@ -20,13 +25,11 @@
 
 \begin{document}
     \maketitle % prints the title
-    \tableofcontents % prints the indices
-    \newpage
-    \input{chapters/Measurements/measurements.tex}
+    \input{chapters/Measurements/measurements_table.tex}
     \newpage
     %\input{chapters/1D Motion/1dmotion.tex}
-    \input{chapters/vectors/vectors.tex}
+    \input{chapters/vectors/vectors_table.tex}
     \newpage
     %... so on for all the other chapters
-    \input{chapters/2D-3D-Motion/2d-3d-motion.tex}
+    \input{chapters/2D-3D-Motion/2d-3d-motion_table.tex}
 \end{document}
