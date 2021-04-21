@@ -7,11 +7,10 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 \usepackage{siunitx}
-\usepackage{epigraph}
+\usepackage{nicefrac}
+\usepackage{tabularx}
 \usepackage{graphicx}
 \usepackage{wrapfig}
-\usepackage{nicefrac}
-\usepackage{xcolor}
 
 \newcommand{\tabeq}[1]{\parbox[c]{\hsize}{\begin{equation*}#1\end{equation*}}}
 
@@ -22,19 +21,17 @@
 }
 
 % Defining the title of the doc.
-\title{Physics' notes}
+\title{Physics' formulary}
 \subtitle{by and for the Sapienza's ACSAI 2020/21 students}
 \date{}
 
 \begin{document}
     \maketitle % prints the title
-    \tableofcontents
-    \newpage
-    \input{chapters/Measurements/measurements.tex}
+    \input{chapters/Measurements/measurements_table.tex}
     \newpage
     %\input{chapters/1D Motion/1dmotion.tex}
-    \input{chapters/vectors/vectors.tex}
-    \newpage
+    \input{chapters/vectors/vectors_table.tex}
     %... so on for all the other chapters
-    \input{chapters/2D-3D-Motion/2d-3d-motion.tex}
+    \input{chapters/2D-3D-Motion/2d-3d-motion_table.tex}
+    \input{chapters/Rotation/rotation_table.tex}
 \end{document}
