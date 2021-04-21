@@ -1,12 +1,94 @@
-% This file was made by Davide M.
+% This file was made by Alessio B.
 \documentclass{scrartcl}
 
-\usepackage{amsthm}
-\usepackage{amsmath}
+\usepackage{epigraph}
 \usepackage{amssymb}
 \usepackage{siunitx}
+\usepackage{siunitx}
+
+
 
 \begin{document}
     \section{Gravitation}
-    Apple goes down lol
+    	\epigraph{The tendency of bodies to move towards one another.}{A gravitation's minimal definition, Isaac Newton 1665}
+    	\paragraph{Newton's Law of Gravitation} Let the masses m1 and m2, and r be their separation, then the magnitude of the gravitational force acting on each due to the presence of the other, is given by: 
+	\begin{equation}
+	{F} = {G}   \frac{m1 m2}{r^2} 
+	\end{equation}
+	In this formula G is the {\em Gravitational Constant:} \begin{equation}{G} = {6, 67 * 10^{-11} \frac{Nm}{kg^2}}\end{equation}
+    	
+	\paragraph{Shell Theorem} Although Newton's Law applies strictly to particles, we can also apply it to real object, as long as the sizes of the objects are small relative to the distance between them. Here enters the myth of the Apple. 						  Newton solved this Apple-Earth issue with the {\em Shell Theorem} that states: \newline
+	{\em "A uniform spherical shell of matter attracts a particle that is outside the shell as if all the shell's mass were concentrated at its center."}				
+    	
+	\paragraph{Gravitation and the Principle of the Super Position} Given a group of particles, we find a net (or resultant) gravitational force on anyone of them from the others by using the {\em Principle of Super Position}. This general 			 principle  means that we first compute the individual gravitational forces that act on our selected particle due to each of the other particles. We then find the net force by adding them as vectors: 
+			\begin{equation}
+    				\vec{F_{1,net}} = \sum_{i=2}^{n} \vec{F_{1,i}}
+    			\end{equation}
+			If we have an {\em Extended Real Object}, we can divide it into differential parts each of mass {\em dm}  and each producing a differential force  dF on the particle. The sum therefore, becomes an integral:
+			\begin{equation}
+    				\int \! f(x) \, \mathrm{d}\vec{F}			
+				\end{equation}
+			
+	\paragraph{Gravitation Near Earth's Surface} Let us assume that Earth is a uniform sphere of mass {\em M}. The magnitude of the gravitational force from Earth on a particle of mass {\em m}, located outside Earth at distance {\em 			r} from Earth's center, is then given by: 
+			\begin{equation}
+			{F} =  \frac{GmM}{r^2} 
+			\end{equation}
+			If the particle is released, it will fall toward the center of the Earth, as a result of the gravitational force, with an acceleration that we call {\em Gravitational Acceleration ag}. Newton's second law tells us that magnitude {\em 			F} and {\em ag} are released by:
+			\begin{equation}
+			{F} =  {mag}
+			\end{equation}
+			Now, substituting {\em F} and solving for {\em ag}, we find:
+			\begin{equation}
+			{ag} =  \frac{GM}{r^2} 
+			\end{equation}
+			Up to now, we assumed that Earth is an inertial frame, by neglecting its rotation. This allowed us to assume that the free-fall acceleration {\em g} of a particle is the same as the particle's gravitational acceleration {\em ag}
+			. However, these assumptions are wrong because:
+			\begin{itemize}
+ 			 \item {\em Earth's Mass is not Uniformly Distributed: } The density of the Earth varies radially.
+ 			\item {\em Earth is not a Sphere: } Earth is approximately an ellipsoid, flattened at the poles and bilging at the equator.
+			\item {\em Earth is Rotating: } The rotation axis runs through the north and south poles of the Earth.
+			\end{itemize}
+			As the Earth rotate, is as a centripetal acceleration {\em a} directed toward Earth's center. We can write the Newton's Second Law as:
+			\begin{equation}
+			{F_N - ma_g} =  -m(\omega^2 R)
+			\end{equation}
+			from this, we can directly find a corresponding expression for {\em g} and {\em ag}, obtaining:
+			\begin{equation}
+			{g} =  {}a_g - \omega^2 R
+			\end{equation}
+			
+	\paragraph{Gravitation Inside Earth} Newton's Shell Theorem can also be applied to a situation in which a {\em particle} is located {\em inside} a uniform shell, to show that: \newline
+								{\em"A Uniform Shell of matter exerts no net Gravitational Force on a particle located inside it."} \newline
+								This means that the sum of all the forces on the particle from all the elements is {\em zero}. 
+								We can use a plot of the {\em Pole to Pole} tunnel traveled by a capsule that has mass {\em m}  and it is fallen at a distance {\em r} from Earth's center. The net Gravitational Force on the 									capsule is due to the mass {\em  M} inside the sphere with radius {\em r}. We can assume that the Earth's mass is concentrated as a Particle at Earth's center, obtaining:   
+								 \begin{equation}
+						     		 {F} =  \frac{GmM}{r^2} 
+						     		 \end{equation}
+								 Substituting then in the formula above with the density, after writing the inside mass in terms of Earth's total mass {\em M } and its radius {\em R}, gives us the magnitude of the gravitational force 								on the capsule as a function of the capsule's distance {\em r} from Earth's center. 	
+								\begin{equation}
+						     		 {F} =  \frac{GmM}{R^3} r 
+						     		 \end{equation}		
+
+	\paragraph{Gravitational Potential Energy} For particles not on Earth's surface, the Gravitational Potential Energy decreased when the separation between particles and Earth decreased. We can consider two sub-cases:
+	\subparagraph{Two Particles} Here we consider two particles of masses {\em m} and {\em M}, separated by a distance {\em r}. For simplifying the equation, we choose a reference configuration with {\em U = 0}. To simplify more, the 						      distance {\em r} is large enough to be approximate as {\em Infinite}. Due to this changes, the Potential Energy {\em U is Negative} and it is equal to:
+						      \begin{equation}
+						      {U} = -\frac{GMm}{r} 
+						      \end{equation}
+	\subparagraph{Multiple Particles} If our system contains more than two particles, we consider each pair of particles in turn, calculate the Gravitational Potential Energy as if the others particles were not there, and at the end do the 							    algebraic sum:
+						       \begin{equation}
+						      {U} = -(\frac{Gm_1m_2}{r_12} + \frac{Gm_1m_3}{r_13} \frac{Gm_2m_3}{r_23}   ...) 
+						      \end{equation}
+	\subparagraph{Path Independence} If we move a ball from a point {\em A} to a point {\em B} along a path consisting of radial lengths and circular arcs, we can find the {\em Total Work W}  by simply adding the radial lengths. 									Therefore, we could also shrink the arcs to zero, and the Work will not change. This happens because the Gravitational Force is a {\em Conservative Force} and the work done by it from an initial 								point {\em i} to a final one {\em f}  is {\em Path Independent}. 
+								Finally, the change in the Gravitational Potential Energy is given by:  \begin{equation}
+												\Delta U = {U_f - U_i} = -W
+												\end{equation}
+	   
+
+	\paragraph{Escape Speed} If we consider a projectile mass m, leaving the surface of a planet, it will have a certain minimal initial speed that will cause to move upward forever. This speed {\em v} is called {\em Escape Speed}. 		\newline This projectile has a kinetic energy  {\em K}  and a potential energy  {\em U}. However, when the projectile reaches infinity, it stops and thus has no kinetic energy. Also its potential energy is zero, due to the infinite distance between the two bodies. Therefore, we will deduce from this that the {\em Escape Speed } is equal to: 
+	\begin{equation}
+	{v} =  \sqrt{\frac{2GM}{R}} 
+	\end{equation}
+
+    
+    
 \end{document}
