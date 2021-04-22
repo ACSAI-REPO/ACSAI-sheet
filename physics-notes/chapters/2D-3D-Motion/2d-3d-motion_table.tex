@@ -1,0 +1,92 @@
+\section{Motion in Two and Three dimensions}
+\paragraph{Basic definitions}\ 
+
+\begin{tabularx}{\textwidth}{l | X | l}
+    Quantity & Equation & Units\\
+    \hline\hline
+    Position & \tabeq{
+        \vec{r} = x\hat{i}+y\hat{j}+z\hat{k}}
+        &$\si{\metre}$\\
+    \hline
+    Displacement & \tabeq{
+        \Delta\vec{r}=\begin{cases}
+            \vec{r_2} - \vec{r_1}\\
+            (x_2 - x_1) \hat{i} + (y_2 - y_1) \hat{j} + (z_2 - z_1) \hat{k}
+        \end{cases}}&$\si{\metre}$\\
+    \hline
+    Velocity & \tabeq{
+        \vec{v}_{\mathrm{avg}} =\begin{cases}
+            \frac{\Delta\vec{r}}{\Delta t}\\
+            \frac{\Delta x}{\Delta t} \hat{i} + \frac{\Delta y}{\Delta t} \hat{j} + \frac{\Delta z}{\Delta t} \hat{k}
+        \end{cases}}&$\si{\metre\per\second}$\\
+    \hline
+    Instantaneous velocity & \tabeq{
+        \vec{v} =\begin{cases}
+            \frac{d\vec{r}}{dt}\\
+            v_x= \frac{dx}{dt},\quad v_y= \frac{dy}{dt},\quad v_z= \frac{dz}{dt}
+        \end{cases}}&$\si{\metre\per\second}$\\
+    \hline
+    Acceleration & \tabeq{
+        \vec{a}_{\mathrm{avg}} =\frac{\vec{v}_2 - \vec{v}_1}{\Delta t} = \frac{\Delta \vec{v} }{\Delta t}}&$\si{\metre\per\square\second}$\\
+    \hline
+    Instantaneous acceleration & \tabeq{
+        \vec{a} =\begin{cases}
+            \frac{d\vec{v}}{dt}\\
+            a_x = \frac{dv_x}{dt},\quad a_y = \frac{dv_y}{dt},\quad a_z = \frac{dv_z}{dt}
+        \end{cases}}&$\si{\metre\per\square\second}$\\
+    \hline
+\end{tabularx}
+\paragraph{Applications}
+\subparagraph{Projectile motion}\ 
+
+\begin{tabularx}{\textwidth}{l | X}
+    Name & Equation \\
+    \hline\hline
+    Projectile motion & \tabeq{
+        \vec{v}_0 = v_{0x} \hat{i} + v_{0y} \hat{j}\ \leftarrow\ v_{0x} = v_0 \cos \theta_0,\quad v_{0y} = v_0\sin\theta_0}\\
+    \hline
+    Horizontal motion & \tabeq{
+        x - x_0 = v_{0x}t}\\
+    \hline
+    Vertical motion & \tabeq{
+        y - y_0 = v_{0y}t - \frac{1}{2}gt^2}\\
+    \hline
+    Final velocity & \tabeq{
+        v_y = v_{0y} - gt\qquad v^2_y = v_{0y}^2 - 2g(y-y_0)}\\
+    \hline
+    Path's equation & \tabeq{
+        y = (\tan \theta_0)x - \frac{gx^2}{2v_{0x}^2}}\\
+    \hline
+    Horizontal range & \tabeq{
+        R = \frac{v^2_0}{g} \sin(2\theta_0)}\\
+    \hline
+\end{tabularx}
+\newpage
+\subparagraph{Uniform circular motion}\ 
+
+\begin{tabularx}{\textwidth}{l | X}
+    Name & Equation \\
+    \hline\hline
+    Centripetal acceleration & \tabeq{
+        a_c = \frac{v^2}{r}}\\
+    \hline
+    Period & \tabeq{
+        T = \frac{2\pi r}{v}}\\
+    \hline
+\end{tabularx}
+
+\subparagraph{Relative motion}\ 
+
+\begin{tabularx}{\textwidth}{l | X}
+    Name & Equation \\
+    \hline\hline
+    Relative position & \tabeq{
+        \vec{r}_{\mathrm{PA}} = \vec{r}_{\mathrm{PB}} + \vec{r}_{\mathrm{BA}}}\\
+    \hline
+    Relative velocity & \tabeq{
+        \vec{v}_{\mathrm{PA}} = \vec{v}_{\mathrm{PB}} + \vec{v}_{\mathrm{BA}}}\\
+    \hline
+    Relative acceleration & \tabeq{
+        \vec{a}_{\mathrm{PA}} = \vec{a}_{\mathrm{PB}}}\\
+    \hline
+\end{tabularx}
