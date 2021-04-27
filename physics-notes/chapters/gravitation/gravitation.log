@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.18)  26 APR 2021 22:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.18)  27 APR 2021 08:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -474,23 +474,6 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 28.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (69.99028pt too wide) detected at line 87
-\OML/cmm/m/it/10.95 G \OT1/cmr/m/n/10.95 = [][]  = []
- []
-
-
-Overfull \hbox (40.50189pt too wide) detected at line 87
-[] \OT1/cmr/m/n/10.95 = [] + [] + \OML/cmm/m/it/10.95 ::: \OT1/cmr/m/n/10.95 + 
-[] = [] []
- []
-
-
-Overfull \hbox (45.17638pt too wide) detected at line 87
-\OML/cmm/m/it/10.95 U \OT1/cmr/m/n/10.95 = \OMS/cmsy/m/n/10.95 ^^@\OT1/cmr/m/n/
-10.95 ([] + [] + []\OML/cmm/m/it/10.95 :::\OT1/cmr/m/n/10.95 )
- []
-
-
 Overfull \hbox (10.95003pt too wide) in paragraph at lines 87--88
 [][] 
  []
@@ -502,7 +485,7 @@ Overfull \hbox (10.95003pt too wide) in paragraph at lines 87--88
 Here is how much of TeX's memory you used:
  8254 strings out of 478994
  178040 string characters out of 5858184
- 580990 words of memory out of 5000000
+ 581990 words of memory out of 5000000
  25662 multiletter control sequences out of 15000+600000
  409781 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -516,7 +499,7 @@ cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmssbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmsy8.pfb>
-Output written on gravitation.pdf (1 page, 79969 bytes).
+Output written on gravitation.pdf (1 page, 80049 bytes).
 PDF statistics:
  40 PDF objects out of 1000 (max. 8388607)
  28 compressed objects within 1 object stream
