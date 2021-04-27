@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.29)  27 APR 2021 14:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.29)  27 APR 2021 18:31
 entering extended mode
 **d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/tables.tex
 (d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/tables.tex
@@ -286,52 +286,57 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \WF@box=\box59
 \WF@everypar=\toks29
 Package: wrapfig 2003/01/31  v 3.6
+) (C:\Users\surre\AppData\Local\Programs\MiKTeX\tex/latex/makecell\makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen167
+\c@nlinenum=\count280
+\TeXr@lab=\toks30
 ) (d:/Files\Documents\GitHub\ACSAI-sheet\physics-notes\tables.aux)
 \openout1 = `tables.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-Package scrbase Info: activating english \contentsname on input line 28.
-Package scrbase Info: activating english \listfigurename on input line 28.
-Package scrbase Info: activating english \listtablename on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+Package scrbase Info: activating english \contentsname on input line 29.
+Package scrbase Info: activating english \listfigurename on input line 29.
+Package scrbase Info: activating english \listtablename on input line 29.
  (C:\Users\surre\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (C:\Users\surre\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunitx-abbreviations.cfg
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 ) (C:\Users\surre\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count280
-\scratchdimen=\dimen167
+\scratchcounter=\count281
+\scratchdimen=\dimen168
 \scratchbox=\box60
-\nofMPsegments=\count281
-\nofMParguments=\count282
-\everyMPshowfont=\toks30
-\MPscratchCnt=\count283
-\MPscratchDim=\dimen168
-\MPnumerator=\count284
-\makeMPintoPDFobject=\count285
-\everyMPtoPDFconversion=\toks31
+\nofMPsegments=\count282
+\nofMParguments=\count283
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count284
+\MPscratchDim=\dimen169
+\MPnumerator=\count285
+\makeMPintoPDFobject=\count286
+\everyMPtoPDFconversion=\toks32
 ) (C:\Users\surre\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 28.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 29.
  (C:\Users\surre\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 28.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 29.
  (C:\Users\surre\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
@@ -416,17 +421,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--1
 
  []
 
-) [7] [8] (d:/Files\Documents\GitHub\ACSAI-sheet\physics-notes\tables.aux) ) 
+
+Overfull \hbox (10.95003pt too wide) in paragraph at lines 13--14
+[][] 
+ []
+
+
+Overfull \hbox (4.3451pt too wide) detected at line 42
+\OML/cmm/m/it/10.95 U[] \OT1/cmr/m/n/10.95 = \OML/cmm/m/it/10.95 U[] \OT1/cmr/m/n/10.95 + \OML/cmm/m/it/10.95 U[] \OT1/cmr/m/n/10.95 + [] + \OML/cmm/m/it/10.95 U[] \OT1/cmr/m/n/10.95 + \OML/cmm/m/it/10.95 U[] \OT1/cmr/m/n/10.95 + [] + \OML/cmm/m/it/10.95 U[] \OT1/cmr/m/n/10.95 + []
+ []
+
+)
+Overfull \hbox (10.95003pt too wide) in paragraph at lines 42--39
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--39
+
+ []
+
+[7] [8] (d:/Files\Documents\GitHub\ACSAI-sheet\physics-notes\tables.aux) ) 
 Here is how much of TeX's memory you used:
- 8500 strings out of 481225
- 184878 string characters out of 2906174
- 529617 words of memory out of 3000000
- 23971 multiletter control sequences out of 15000+200000
+ 8654 strings out of 481225
+ 186577 string characters out of 2906174
+ 533436 words of memory out of 3000000
+ 24121 multiletter control sequences out of 15000+200000
  548099 words of font info for 81 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 49i,26n,58p,10653b,977s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 49i,37n,58p,10653b,1049s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on d:/Files\Documents\GitHub\ACSAI-sheet\physics-notes\tables.pdf (8 pages, 172634 bytes).
+Output written on d:/Files\Documents\GitHub\ACSAI-sheet\physics-notes\tables.pdf (8 pages, 173044 bytes).
 PDF statistics:
  85 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
