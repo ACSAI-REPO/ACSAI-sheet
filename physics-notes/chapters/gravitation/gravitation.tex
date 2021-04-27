@@ -1,12 +1,121 @@
-% This file was made by Davide M.
-\documentclass{scrartcl}
+\documentclass{scrartcl} % This is the documentclass DONT-TOUCH-THIS
 
+% These are the packages (library imports), if your chapter uses
+% some package which is not here, feel free to add it (except for
+% some special cases like the geometry package, for that ask on GitHub)
 \usepackage{amsthm}
 \usepackage{amsmath}
 \usepackage{amssymb}
 \usepackage{siunitx}
+\usepackage{nicefrac}
+\usepackage{tabularx}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+
+\newcommand{\tabeq}[1]{\parbox[c]{\hsize}{\begin{equation*}#1\end{equation*}}}
+
+\sisetup{
+    quotient-mode = fraction,
+    per-mode = fraction,
+    fraction-function=\nicefrac
+}
+
+% Defining the title of the doc.
+\title{Physics' formulary}
+\subtitle{by and for the Sapienza's ACSAI 2020/21 students}
+\date{}
 
 \begin{document}
-    \section{Gravitation}
-    Apple goes down lol
+\paragraph{Gravitation}\ 
+
+\begin{tabularx}{\textwidth}{l | X}
+    Notation & Equation\\
+    \hline\hline
+    Gravitational Force's Magnitude & \tabeq{
+	{F} = {G}   \frac{m1 m2}{r^2}}\\
+    \hline
+    
+    Gravitational Constant G & \tabeq{
+	{G} = {6, 67 * 10^{-11} \frac{Nm}{kg^2}}\newline
+	= {6, 67 * 10^{-11} \frac{m^3}{kg*s^2}}}\\
+    \hline
+    
+    Principle of Superposition & \tabeq{
+    \vec{F_{1,net}} = \vec{F_{1,2}}+ \vec{F_{1,3}} + ... + \vec{F_{1,n}}  =  \sum_{i=2}^{n} \vec{F_{1,i}}}\\
+    \hline
+    
+    P.o.S on a Extended Real Object& \tabeq{
+     \vec{F_{1}} = \int \!  \mathrm{d}\vec{F}}\\
+    \hline
+    
+     Newton's Second Law& \tabeq{
+     {F} =  {m}{a_{g}}}\\
+    \hline
+    
+    Gravitational Acceleration& \tabeq{
+     {a_{g}} =  \frac{GM}{r^2}}\\
+    \hline
+    
+    \\Newton's Second Law for Forces \\ along r axis& \tabeq{
+    {F_N - ma_g} =  -m(\omega^2 R)}\\
+      \hline
+    
+   Free-Fall Acceleration \\ (Near Eearth's Surface)& \tabeq{
+   {g} =  {}a_g - \omega^2 R}\\
+    \hline
+       
+     Gravitational Force Inside Earth& \tabeq{
+     {F} =  \frac{GmM}{R^3} r}\\
+    \hline
+    
+    Gravitational Potential Energy \\ 2-particles& \tabeq{
+     {U} = -\frac{GMm}{r}}\\
+    \hline
+    
+    Gravitational Potential Energy \\ mul-particles& \tabeq{
+      {U} = -(\frac{Gm_1m_2}{r_{1 2}} + \frac{Gm_1m_3}{r_{1 3}} + \frac{Gm_2m_3}{r_{2 3}}   ...)}\\
+    \hline
+    
+    Change Gravitational Potential \\ Energy (Path Indep.)& \tabeq{
+    \Delta U = {U_f - U_i} = -W}\\
+    \hline
+    
+    Escape Speed& \tabeq{
+    {v} =  \sqrt{\frac{2GM}{R}}}\\
+    \hline
+    		    
+\end{tabularx}
 \end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
