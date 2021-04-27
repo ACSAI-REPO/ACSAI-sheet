@@ -1,11 +1,114 @@
-\documentclass{scrartcl}
+\documentclass{scrartcl} % This is the documentclass DONT-TOUCH-THIS
+
+
+%   Force and Motion I section - by Dario Loi
+%   Document produced through refactoring (shameless theft)
+%   of vectors_table.tex
+
+%   remove unnecessary imports from the document when merging!
+
 
 \usepackage{amsthm}
 \usepackage{amsmath}
 \usepackage{amssymb}
 \usepackage{siunitx}
+\usepackage{nicefrac}
+\usepackage{tabularx}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+
+\newcommand{\tabeq}[1]{\parbox[c]{\hsize}{\begin{equation*}#1\end{equation*}}}
+
+\sisetup{
+    quotient-mode = fraction,
+    per-mode = fraction,
+    fraction-function=\nicefrac
+}
+
+% Defining the title of the doc.
+\title{Physics' formulary}
+\subtitle{by and for the Sapienza's ACSAI 2020/21 students}
+\date{}
 
 \begin{document}
-    \section{Force and motion}
-	The rock rocks
+\section{Force and Motion}
+
+\subsection{Chapter I}
+\paragraph{Units of Measurement}\ 
+
+\begin{tabularx}{\textwidth}{l | X | X}
+    Quantity & Unit & Formula\\
+    \hline\hline
+    Force 
+    & \tabeq{ 
+        [N] = Newton
+        } 
+    & \tabeq{
+        N = Kg * \frac{m}{s^2}
+        } \\
+        
+
+    \hline
+
+\end{tabularx}
+\paragraph{Newton's laws}\ 
+
+\begin{tabularx}{\textwidth}{l | X}
+    Law & States \\
+    \hline\hline
+    First law 
+    & \tabeq{ 
+        \vec{F}_{net} = 0 \iff v = const
+        }  \\
+    \hline
+    Second law 
+    & \tabeq{ 
+        \vec{F}_{net} = m\vec{a}
+        }  \\
+    \hline
+    Third law 
+    & \tabeq{ 
+        \vec{F}_{AB} = -\vec{F}_{BA}
+        }  \\
+    \hline
+    
+    
+\end{tabularx}
+\subsection{Chapter II}
+\paragraph{Friction}\ 
+
+\begin{tabularx}{\textwidth}{l | X}
+    Type & Formula \\
+    \hline\hline
+    Static friction
+    & \tabeq{ 
+        f_{s,max} = \mu_s F_N
+        }  \\
+    \hline
+    Kinetic friction
+    & \tabeq{ 
+        f_{k} = \mu_k F_N
+        }  \\
+    \hline
+    
+\end{tabularx}
+
+\paragraph{Uniform Circular Motion}\ 
+
+\begin{tabularx}{\textwidth}{l | X}
+    Quantity & Formula \\
+    \hline\hline
+    Acceleration
+    & \tabeq{ 
+        a = \frac{v^2}{R}
+        }  \\
+    \hline
+    Force
+    & \tabeq{ 
+        F = m\frac{v^2}{R}
+        }  \\
+    \hline
+    
+\end{tabularx}
+
 \end{document}
