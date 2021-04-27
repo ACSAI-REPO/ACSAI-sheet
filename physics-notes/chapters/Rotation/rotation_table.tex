@@ -1,0 +1,62 @@
+\section{Rotation}
+\paragraph{Basic definitions}\ 
+
+\begin{tabularx}{\textwidth}{l | X | l}
+    Quantity & Equation & Units\\
+    \hline\hline
+    Angular Position & \tabeq{
+        \theta=\frac{s}{r}, \mbox{ where }\begin{cases}
+            s\mbox{ is portion of circumference}\\
+            r\mbox{ is radius}
+        \end{cases}}
+        &$\si{\radian}$\\
+    \hline
+    Angular displacement & \tabeq{
+        \Delta\theta =\theta_2 - \theta_1}&$\si{\radian}$\\
+    \hline
+    Angular velocity & \tabeq{
+        \omega_{\mathrm{avg}} = \frac{\Delta\theta}{\Delta t}}&$\si{\radian\per\second}$\\
+    \hline
+    Instantaneous angular velocity & \tabeq{
+        \omega = \frac{d\theta}{d t}}&$\si{\radian\per\second}$\\
+    \hline
+    Angular speed & \tabeq{
+        |\omega|}&$\si{\radian\per\second}$\\
+    \hline
+    Average angular acceleration & \tabeq{
+        \alpha_{\mathrm{avg}}=\frac{\Delta\omega}{\Delta t}}&$\si{\radian\per\square\second}$\\
+    \hline
+    Instantaneous angular acceleration & \tabeq{
+        \alpha = \frac{d\omega}{dt}}&$\si{\radian\per\square\second}$\\
+    \hline
+\end{tabularx}
+
+\subparagraph{Derivations}\ 
+
+\begin{tabularx}{\textwidth}{l | X }
+    Name & Equation \\
+    \hline\hline
+    Angular velocity I & \tabeq{\omega = \omega_0 + \alpha t}\\
+    \hline
+    Angular position & \tabeq{(\theta-\theta_0) = \omega t + \frac{1}{2}\alpha  t^2}\\
+    \hline
+    Angular velocity II &\tabeq{\omega^2 = \omega_0^2 + 2\alpha (\theta-\theta_0)}\\
+    \hline
+    Speed & \tabeq{v=\omega r}\\
+    \hline
+    Tangential acceleration & \tabeq{a_t = \alpha r}\\
+    \hline
+\end{tabularx}
+
+\paragraph{Applications}\ 
+
+\begin{tabularx}{\textwidth}{l | X}
+    Name & Equation \\
+    \hline\hline
+    Rotational inertia & \tabeq{I = \sum_i m_i r_i^2}\\
+    \hline
+    Rot. inertia continuous bodies & \tabeq{I = \int r^2\ dm}\\
+    \hline
+    Kinetic energy & \tabeq{K = \frac{1}{2} I \omega^2}\\
+    \hline
+\end{tabularx}

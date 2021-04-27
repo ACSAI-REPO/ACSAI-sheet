@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.29)  18 APR 2021 16:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.29)  21 APR 2021 17:27
 entering extended mode
-**d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/notes.tex
-(d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/notes.tex
+**d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/2D-3D-Motion/2d-3d-motion-indep.tex
+(d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/2D-3D-Motion/2d-3d-motion-indep.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-07-17> (C:\Users\surre\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrartcl.cls
 Document Class: scrartcl 2020/07/22 v3.31 KOMA-Script document class (article)
@@ -248,16 +248,7 @@ Package: l3keys2e 2020-05-15 LaTeX2e option processing using LaTeX3 keys
 \l__siunitx_table_text_align_skip=\skip74
  (C:\Users\surre\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator.sty
 Package: translator 2019-05-31 v1.12a Easy translation of strings in LaTeX
-)) (C:\Users\surre\AppData\Local\Programs\MiKTeX\tex/latex/epigraph\epigraph.sty
-Package: epigraph 2020/01/02 v1.5e typesetting epigraphs
- (C:\Users\surre\AppData\Local\Programs\MiKTeX\tex/latex/nextpage\nextpage.sty
-Package: nextpage 2009/09/03 v1.1a additional page commands
-)
-\beforeepigraphskip=\skip75
-\afterepigraphskip=\skip76
-\epigraphwidth=\skip77
-\epigraphrule=\skip78
-) (C:\Users\surre\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+)) (C:\Users\surre\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
  (C:\Users\surre\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
@@ -279,14 +270,7 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \WF@box=\box59
 \WF@everypar=\toks28
 Package: wrapfig 2003/01/31  v 3.6
-) (C:\Users\surre\AppData\Local\Programs\MiKTeX\tex/latex/units\nicefrac.sty
-Package: nicefrac 1998/08/04 v0.9b Nice fractions
-\L@UnitsRaiseDisplaystyle=\skip79
-\L@UnitsRaiseTextstyle=\skip80
-\L@UnitsRaiseScriptstyle=\skip81
- (C:\Users\surre\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)) (C:\Users\surre\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+) (C:\Users\surre\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
  (C:\Users\surre\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
@@ -301,26 +285,26 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-) (d:/Files\Documents\GitHub\ACSAI-sheet\physics-notes\notes.aux)
-\openout1 = `notes.aux'.
+) (d:/Files\Documents\GitHub\ACSAI-sheet\physics-notes\chapters\2D-3D-Motion\2d-3d-motion-indep.aux)
+\openout1 = `2d-3d-motion-indep.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-Package scrbase Info: activating english \contentsname on input line 21.
-Package scrbase Info: activating english \listfigurename on input line 21.
-Package scrbase Info: activating english \listtablename on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+Package scrbase Info: activating english \contentsname on input line 11.
+Package scrbase Info: activating english \listfigurename on input line 11.
+Package scrbase Info: activating english \listtablename on input line 11.
  (C:\Users\surre\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (C:\Users\surre\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunitx-abbreviations.cfg
@@ -342,71 +326,35 @@ File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 21.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 11.
  (C:\Users\surre\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 21.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 11.
  (C:\Users\surre\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
+) (d:/Files\Documents\GitHub\ACSAI-sheet\physics-notes\chapters\2D-3D-Motion\2d-3d-motion.tex
 
-LaTeX Warning: No \author given.
+! LaTeX Error: File `chapters/2D-3D-Motion/images/displacement_velocity.pdf_tex' not found.
 
-(d:/Files\Documents\GitHub\ACSAI-sheet\physics-notes\notes.toc)
-\tf@toc=\write3
-\openout3 = `notes.toc'.
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: pdf_tex)
 
- [1
+Enter file name: 
+ :4: Emergency stop.
+<read *> 
+         
+l.4 ...otion/images/displacement_velocity.pdf_tex}
+                                                  
+*** (cannot \read from terminal in nonstop modes)
 
-
-{C:/Users/surre/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] (d:/Files\Documents\GitHub\ACSAI-sheet\physics-notes\chapters/Measurements/measurements.tex [2]) [3] (d:/Files\Documents\GitHub\ACSAI-sheet\physics-notes\chapters/vectors/vectors.tex (d:/Files\Documents\GitHub\ACSAI-sheet\physics-notes\chapters/vectors/images/vector_basic.pdf_tex
-<chapters/vectors/images/vector_basic.pdf, id=22, page=1, 86.61372pt x 67.78116pt>
-File: chapters/vectors/images/vector_basic.pdf Graphic file (type pdf)
-<use chapters/vectors/images/vector_basic.pdf, page 1>
-Package pdftex.def Info: chapters/vectors/images/vector_basic.pdf , page1 used on input line 56.
-(pdftex.def)             Requested size: 86.61371pt x 67.78407pt.
-) [4 <d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/vectors/images/vector_basic.pdf>] [5]
-<chapters/vectors/images/right_hand_rule.pdf, id=35, 351.70247pt x 312.22687pt>
-File: chapters/vectors/images/right_hand_rule.pdf Graphic file (type pdf)
-<use chapters/vectors/images/right_hand_rule.pdf>
-Package pdftex.def Info: chapters/vectors/images/right_hand_rule.pdf  used on input line 136.
-(pdftex.def)             Requested size: 125.47794pt x 111.39157pt.
-) [6 <d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/vectors/images/right_hand_rule.pdf>] (d:/Files\Documents\GitHub\ACSAI-sheet\physics-notes\chapters/2D-3D-Motion/2d-3d-motion.tex (d:/Files\Documents\GitHub\ACSAI-sheet\physics-notes\chapters/2D-3D-Motion/images/displacement_velocity.pdf_tex
-<chapters/2D-3D-Motion/images/displacement_velocity.pdf, id=41, page=1, 96.04451pt x 80.02885pt>
-File: chapters/2D-3D-Motion/images/displacement_velocity.pdf Graphic file (type pdf)
-<use chapters/2D-3D-Motion/images/displacement_velocity.pdf, page 1>
-Package pdftex.def Info: chapters/2D-3D-Motion/images/displacement_velocity.pdf , page1 used on input line 56.
-(pdftex.def)             Requested size: 96.04451pt x 80.0323pt.
-<chapters/2D-3D-Motion/images/displacement_velocity.pdf, id=42, page=2, 96.04451pt x 80.02885pt>
-File: chapters/2D-3D-Motion/images/displacement_velocity.pdf Graphic file (type pdf)
-<use chapters/2D-3D-Motion/images/displacement_velocity.pdf, page 2>
-Package pdftex.def Info: chapters/2D-3D-Motion/images/displacement_velocity.pdf , page2 used on input line 61.
-(pdftex.def)             Requested size: 96.04451pt x 80.0323pt.
-<chapters/2D-3D-Motion/images/displacement_velocity.pdf, id=43, page=3, 96.04451pt x 80.02885pt>
-File: chapters/2D-3D-Motion/images/displacement_velocity.pdf Graphic file (type pdf)
-<use chapters/2D-3D-Motion/images/displacement_velocity.pdf, page 3>
-Package pdftex.def Info: chapters/2D-3D-Motion/images/displacement_velocity.pdf , page3 used on input line 63.
-(pdftex.def)             Requested size: 96.04451pt x 80.0323pt.
-) [7 <d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/2D-3D-Motion/images/displacement_velocity.pdf> <d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/2D-3D-Motion/images/displacement_velocity.pdf
-
-pdfTeX warning: pdflatex (file d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/2D-3D-Motion/images/displacement_velocity.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/2D-3D-Motion/images/displacement_velocity.pdf
-
-pdfTeX warning: pdflatex (file d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/2D-3D-Motion/images/displacement_velocity.pdf): PDF inclusion: multiple pdfs with page group included in a single page
->] [8] [9]) [10] (d:/Files\Documents\GitHub\ACSAI-sheet\physics-notes\notes.aux) ) 
+ 
 Here is how much of TeX's memory you used:
- 9056 strings out of 481225
- 193131 string characters out of 2906174
- 531312 words of memory out of 3000000
- 24509 multiletter control sequences out of 15000+200000
- 549461 words of font info for 85 fonts, out of 3000000 for 9000
+ 8753 strings out of 481225
+ 185523 string characters out of 2906174
+ 523578 words of memory out of 3000000
+ 24261 multiletter control sequences out of 15000+200000
+ 541733 words of font info for 55 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 49i,21n,58p,10652b,979s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on d:/Files\Documents\GitHub\ACSAI-sheet\physics-notes\notes.pdf (10 pages, 197188 bytes).
-PDF statistics:
- 107 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ 49i,3n,58p,10687b,382s stack positions out of 5000i,500n,10000p,200000b,50000s
+ :4:  ==> Fatal error occurred, no output PDF file produced!
