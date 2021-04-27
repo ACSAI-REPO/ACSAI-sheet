@@ -1,11 +1,93 @@
-\documentclass{scrartcl}
+\documentclass{scrartcl} % This is the documentclass DONT-TOUCH-THIS
+
+
+%   Rolling, Torque and Angular Momentum section - by Dario Loi
+%   Document produced through refactoring (shameless theft)
+%   of vectors_table.tex, and of my own force-and-motion.tex
+
+%   remove unnecessary imports from the document when merging!
+%   also please check for any duplicate formulas and the likes
+%   since I ignore the bigger picture when writing these sections.
+
 
 \usepackage{amsthm}
 \usepackage{amsmath}
 \usepackage{amssymb}
 \usepackage{siunitx}
+\usepackage{nicefrac}
+\usepackage{tabularx}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+
+%Huge recommend to set this up in the whole document!~
+%Makes fractions easier to see when in tables
+\setlength{\extrarowheight}{8pt}
+
+\newcommand{\tabeq}[1]{\parbox[c]{\hsize}{\begin{equation*}#1\end{equation*}}}
+
+\sisetup{
+    quotient-mode = fraction,
+    per-mode = fraction,
+    fraction-function=\nicefrac
+}
 
 \begin{document}
-    \section{Torque and Angular Momentum}
-	The rock rocks
+\section{Rolling, Torque, Angular Momentum}
+
+\subsection{Rolling}
+\paragraph{Quantities}\ 
+
+\begin{tabularx}{\textwidth}{l | X | X}
+    Quantity & Formula\\
+    \hline\hline
+    Rolling velocity
+    & \tabeq{ 
+        v_{com} = \omega
+        }   \\
+    \hline
+    Rolling kinetic energy
+    & \tabeq{ 
+        K = \tfrac{1}{2}I_{com}\omega^2+\tfrac{1}{2}Mv^2_{com}
+        }   \\
+    \hline
+    Linear acceleration of rolling body
+    & \tabeq{ 
+        a_{com,x} = -\cfrac{g\sin{\theta}}{1+I_{com}/MR^2}
+        }   \\
+    \hline
+
+\end{tabularx}
+\paragraph{Torque and Angular Momentum}\ 
+
+\begin{tabularx}{\textwidth}{l | X}
+    Quantity & Formula\\
+    \hline\hline
+    Torque
+    & \tabeq{ 
+        \Vec{\tau} = \Vec{r} \times \Vec{F}
+        }   \\
+    \hline
+    Torque (magnitude)
+    & \tabeq{ 
+        \tau = rF\sin{\theta}
+        }   \\
+    \hline
+    Angular Momentum
+    & \tabeq{ 
+        \textit{L} = \Vec{r} \times \Vec{p} \iff m(\Vec{r} \times \Vec{v})
+        }   \\
+    \hline
+    Angular Momentum (magnitude)
+    & \tabeq{ 
+        \textit{L} = rmv\sin{\theta}
+        }   \\
+    \hline
+    Second law (angular)
+     & \tabeq{ 
+        \vec{\tau_{net}} = \cfrac{ d\vec{\textit{L}} }{dt}
+        }   \\
+    \hline
+    
+\end{tabularx}
+
 \end{document}
