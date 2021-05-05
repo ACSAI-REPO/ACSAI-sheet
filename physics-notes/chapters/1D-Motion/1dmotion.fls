@@ -1,0 +1,4 @@
+PWD d:\Files\Documents\GitHub\ACSAI-sheet\physics-notes\chapters\1D-Motion
+INPUT C:\Users\surre\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT d:\Files\Documents\GitHub\ACSAI-sheet\physics-notes\chapters\1D-Motion\1dmotion.tex
+OUTPUT d:\Files\Documents\GitHub\ACSAI-sheet\physics-notes\chapters\1D-Motion\1dmotion.log

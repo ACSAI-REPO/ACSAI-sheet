@@ -1,0 +1,19 @@
+PWD d:\Files\Documents\GitHub\ACSAI-sheet\physics-notes\chapters\Force and motion
+INPUT C:\Users\surre\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT d:\Files\Documents\GitHub\ACSAI-sheet\physics-notes\chapters\Force and motion\force-and-motion.tex
+OUTPUT d:\Files\Documents\GitHub\ACSAI-sheet\physics-notes\chapters\Force and motion\force-and-motion.log
+OUTPUT d:\Files\Documents\GitHub\ACSAI-sheet\physics-notes\chapters\Force and motion\force-and-motion.pdf
+INPUT C:\Users\surre\AppData\Local\MiKTeX\pdftex\config\pdftex.map
+INPUT d:\Files\Documents\GitHub\ACSAI-sheet\physics-notes\chapters\Force and motion\force-and-motion.aux
+INPUT C:\Users\surre\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\surre\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\surre\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT C:\Users\surre\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT C:\Users\surre\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\surre\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\surre\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr5.pfb
+INPUT C:\Users\surre\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr5.pfb
+INPUT C:\Users\surre\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Users\surre\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Users\surre\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\surre\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb

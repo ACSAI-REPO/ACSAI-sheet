@@ -1,0 +1,1655 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.29)  5 MAY 2021 15:19
+entering extended mode
+**"d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex"
+("d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex"
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-07-17>
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:1: Undefined control sequence.
+l.1 \section
+            {Force and Motion}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:1: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{F
+              orce and Motion}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no F in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--2
+[]
+ []
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:3: Undefined control sequence.
+l.3 \subsection
+               {Chapter I}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:3: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \subsection{C
+                 hapter I}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no C in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no I in font nullfont!
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:4: Undefined control sequence.
+l.4 \paragraph
+              {Units of Measurement}\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no U in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 3--5
+[]
+ []
+
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:6: LaTeX Error: Environment tabularx undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 \begin{tabularx}
+                    {\textwidth}{l | X | X}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:6: Missing number, treated as zero.
+<to be read again> 
+                   }
+l.6 \begin{tabularx}{\textwidth}
+                                {l | X | X}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:6: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.6 \begin{tabularx}{\textwidth}
+                                {l | X | X}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:6: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 \begin{tabularx}{\textwidth}{l
+                                   | X | X}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no l in font nullfont!
+Missing character: There is no | in font nullfont!
+Missing character: There is no X in font nullfont!
+Missing character: There is no | in font nullfont!
+Missing character: There is no X in font nullfont!
+Missing character: There is no Q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:7: Misplaced alignment tab character &.
+l.7     Quantity &
+                   Unit & Formula\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no U in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:7: Misplaced alignment tab character &.
+l.7     Quantity & Unit &
+                          Formula\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no F in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:8: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.8     \hline
+              \hline
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 6--8
+[]
+ []
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:8: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.8     \hline\hline
+                    
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:9: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9     F
+         orce
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no F in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:10: Misplaced alignment tab character &.
+l.10     &
+           \tabeq{
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:10: Undefined control sequence.
+l.10     & \tabeq
+                 {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:13: Misplaced alignment tab character &.
+l.13     &
+           \tabeq{
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:13: Undefined control sequence.
+l.13     & \tabeq
+                 {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no N in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no K in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no * in font nullfont!
+Missing character: There is no m in font nullfont!
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:14: Missing $ inserted.
+<inserted text> 
+                $
+l.14         N = Kg * \frac{m}{s^2}
+                                   
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 14.
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:14: Extra }, or forgotten $.
+\frac  #1#2->{\begingroup #1\endgroup \over #2}
+                                               
+l.14         N = Kg * \frac{m}{s^2}
+                                   
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:15: Extra }, or forgotten $.
+l.15         }
+               \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:16: Missing $ inserted.
+<inserted text> 
+                $
+l.16 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 9--16
+[]
+ []
+
+
+Overfull \hbox (10.07715pt too wide) in paragraph at lines 9--16
+[]$ 
+ []
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:18: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.18     \hline
+               
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:20: LaTeX Error: \begin{document} ended by \end{tabularx}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \end{tabularx}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:20: Missing } inserted.
+<inserted text> 
+                }
+l.20 \end{tabularx}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:20: Missing } inserted.
+<inserted text> 
+                }
+l.20 \end{tabularx}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:21: Undefined control sequence.
+l.21 \paragraph
+               {Newton's laws}\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:21: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 \paragraph{N
+                 ewton's laws}\
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no N in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no s in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 21--22
+[]
+ []
+
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:23: LaTeX Error: Environment tabularx undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 \begin{tabularx}
+                     {\textwidth}{l | X}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:23: Missing number, treated as zero.
+<to be read again> 
+                   }
+l.23 \begin{tabularx}{\textwidth}
+                                 {l | X}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:23: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.23 \begin{tabularx}{\textwidth}
+                                 {l | X}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:23: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 \begin{tabularx}{\textwidth}{l
+                                    | X}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no l in font nullfont!
+Missing character: There is no | in font nullfont!
+Missing character: There is no X in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no w in font nullfont!
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:24: Misplaced alignment tab character &.
+l.24     Law &
+               States \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no S in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:25: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.25     \hline
+               \hline
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 23--25
+[]
+ []
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:25: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.25     \hline\hline
+                     
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:26: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26     F
+          irst law
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no F in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no w in font nullfont!
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:27: Misplaced alignment tab character &.
+l.27     &
+           \tabeq{
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:27: Undefined control sequence.
+l.27     & \tabeq
+                 {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:28: Missing $ inserted.
+<inserted text> 
+                $
+l.28         \vec
+                 {F}_{net} = 0 \iff v = const
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:29: Extra }, or forgotten $.
+l.29         }
+                \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:30: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.30     \hline
+               
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:30: Missing $ inserted.
+<inserted text> 
+                $
+l.30     \hline
+               
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:30: Missing } inserted.
+<inserted text> 
+                }
+l.30     \hline
+               
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 26--30
+[]
+ []
+
+
+Overfull \hbox (29.24435pt too wide) in paragraph at lines 26--30
+[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (28.88884pt too wide) in paragraph at lines 26--30
+\OT1/cmr/m/n/10 0  \OMS/cmsy/m/n/10 ([])
+ []
+
+
+Overfull \hbox (15.76152pt too wide) in paragraph at lines 26--30
+\OML/cmm/m/it/10 v \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (23.47575pt too wide) in paragraph at lines 26--30
+\OML/cmm/m/it/10 const[] 
+ []
+
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:31: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31     S
+          econd law
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no S in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no w in font nullfont!
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:32: Misplaced alignment tab character &.
+l.32     &
+           \tabeq{
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:32: Undefined control sequence.
+l.32     & \tabeq
+                 {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:33: Missing $ inserted.
+<inserted text> 
+                $
+l.33         \vec
+                 {F}_{net} = m\vec{a}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:34: Extra }, or forgotten $.
+l.34         }
+                \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:35: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.35     \hline
+               
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:35: Missing $ inserted.
+<inserted text> 
+                $
+l.35     \hline
+               
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:35: Missing } inserted.
+<inserted text> 
+                }
+l.35     \hline
+               
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 31--35
+[]
+ []
+
+
+Overfull \hbox (29.24435pt too wide) in paragraph at lines 31--35
+[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (14.06602pt too wide) in paragraph at lines 31--35
+\OML/cmm/m/it/10 m[][] 
+ []
+
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:36: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36     T
+          hird law
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no T in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no w in font nullfont!
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:37: Misplaced alignment tab character &.
+l.37     &
+           \tabeq{
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:37: Undefined control sequence.
+l.37     & \tabeq
+                 {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:38: Missing $ inserted.
+<inserted text> 
+                $
+l.38         \vec
+                 {F}_{AB} = -\vec{F}_{BA}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:39: Extra }, or forgotten $.
+l.39         }
+                \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:40: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.40     \hline
+               
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:40: Missing $ inserted.
+<inserted text> 
+                $
+l.40     \hline
+               
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:40: Missing } inserted.
+<inserted text> 
+                }
+l.40     \hline
+               
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 36--40
+[]
+ []
+
+
+Overfull \hbox (29.88298pt too wide) in paragraph at lines 36--40
+[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (27.10527pt too wide) in paragraph at lines 36--40
+\OMS/cmsy/m/n/10  [][] 
+ []
+
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:43: LaTeX Error: \begin{document} ended by \end{tabularx}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 \end{tabularx}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:44: Undefined control sequence.
+l.44 \subsection
+                {Chapter II}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:44: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 \subsection{C
+                  hapter II}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no C in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no I in font nullfont!
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:45: Undefined control sequence.
+l.45 \paragraph
+               {Friction}\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no F in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 44--46
+[]
+ []
+
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:47: LaTeX Error: Environment tabularx undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 \begin{tabularx}
+                     {\textwidth}{l | X}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:47: Missing number, treated as zero.
+<to be read again> 
+                   }
+l.47 \begin{tabularx}{\textwidth}
+                                 {l | X}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:47: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.47 \begin{tabularx}{\textwidth}
+                                 {l | X}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:47: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 \begin{tabularx}{\textwidth}{l
+                                    | X}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no l in font nullfont!
+Missing character: There is no | in font nullfont!
+Missing character: There is no X in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:48: Misplaced alignment tab character &.
+l.48     Type &
+                Formula \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no F in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:49: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.49     \hline
+               \hline
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 47--49
+[]
+ []
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:49: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.49     \hline\hline
+                     
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:50: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50     S
+          tatic friction
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no S in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:51: Misplaced alignment tab character &.
+l.51     &
+           \tabeq{
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:51: Undefined control sequence.
+l.51     & \tabeq
+                 {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no f in font nullfont!
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:52: Missing $ inserted.
+<inserted text> 
+                $
+l.52         f_
+               {s,max} = \mu_s F_N
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:53: Extra }, or forgotten $.
+l.53         }
+                \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:54: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.54     \hline
+               
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:54: Missing $ inserted.
+<inserted text> 
+                $
+l.54     \hline
+               
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:54: Missing } inserted.
+<inserted text> 
+                }
+l.54     \hline
+               
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 50--54
+[]
+ []
+
+
+Overfull \hbox (33.17332pt too wide) in paragraph at lines 50--54
+[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (24.3151pt too wide) in paragraph at lines 50--54
+\OML/cmm/m/it/10 []F[][] 
+ []
+
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:55: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.55     K
+          inetic friction
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no K in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:56: Misplaced alignment tab character &.
+l.56     &
+           \tabeq{
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:56: Undefined control sequence.
+l.56     & \tabeq
+                 {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no f in font nullfont!
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:57: Missing $ inserted.
+<inserted text> 
+                $
+l.57         f_
+               {k} = \mu_k F_N
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:58: Extra }, or forgotten $.
+l.58         }
+                \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:59: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.59     \hline
+               
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:59: Missing $ inserted.
+<inserted text> 
+                $
+l.59     \hline
+               
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:59: Missing } inserted.
+<inserted text> 
+                }
+l.59     \hline
+               
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 55--59
+[]
+ []
+
+
+Overfull \hbox (15.47568pt too wide) in paragraph at lines 55--59
+[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (24.96094pt too wide) in paragraph at lines 55--59
+\OML/cmm/m/it/10 []F[][] 
+ []
+
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:61: LaTeX Error: \begin{document} ended by \end{tabularx}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61 \end{tabularx}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:63: Undefined control sequence.
+l.63 \paragraph
+               {Uniform Circular Motion}\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:63: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63 \paragraph{U
+                 niform Circular Motion}\
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no U in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 63--64
+[]
+ []
+
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:65: LaTeX Error: Environment tabularx undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.65 \begin{tabularx}
+                     {\textwidth}{l | X}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:65: Missing number, treated as zero.
+<to be read again> 
+                   }
+l.65 \begin{tabularx}{\textwidth}
+                                 {l | X}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:65: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.65 \begin{tabularx}{\textwidth}
+                                 {l | X}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:65: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.65 \begin{tabularx}{\textwidth}{l
+                                    | X}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no l in font nullfont!
+Missing character: There is no | in font nullfont!
+Missing character: There is no X in font nullfont!
+Missing character: There is no Q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:66: Misplaced alignment tab character &.
+l.66     Quantity &
+                    Formula \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no F in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:67: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.67     \hline
+               \hline
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 65--67
+[]
+ []
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:67: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.67     \hline\hline
+                     
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:68: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68     A
+          cceleration
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no A in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:69: Misplaced alignment tab character &.
+l.69     &
+           \tabeq{
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:69: Undefined control sequence.
+l.69     & \tabeq
+                 {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no a in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no v in font nullfont!
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:70: Missing $ inserted.
+<inserted text> 
+                $
+l.70         a = \frac{v^2}{R}
+                              
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:70: Missing $ inserted.
+<inserted text> 
+                $
+l.70         a = \frac{v^2}{R}
+                              
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:70: Missing $ inserted.
+<inserted text> 
+                $
+l.70         a = \frac{v^2}{R}
+                              
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:70: Extra }, or forgotten $.
+\frac  #1#2->{\begingroup #1\endgroup \over #2}
+                                               
+l.70         a = \frac{v^2}{R}
+                              
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:71: Extra }, or forgotten $.
+l.71         }
+                \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:72: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.72     \hline
+               
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:72: Missing $ inserted.
+<inserted text> 
+                $
+l.72     \hline
+               
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:72: Missing } inserted.
+<inserted text> 
+                }
+l.72     \hline
+               
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 68--72
+[]
+ []
+
+
+Overfull \hbox (12.94621pt too wide) in paragraph at lines 68--72
+[]$$[]$ 
+ []
+
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:73: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.73     F
+          orce
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no F in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:74: Misplaced alignment tab character &.
+l.74     &
+           \tabeq{
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:74: Undefined control sequence.
+l.74     & \tabeq
+                 {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no F in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no v in font nullfont!
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:75: Missing $ inserted.
+<inserted text> 
+                $
+l.75         F = m\frac{v^2}{R}
+                               
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:75: Missing $ inserted.
+<inserted text> 
+                $
+l.75         F = m\frac{v^2}{R}
+                               
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:75: Missing $ inserted.
+<inserted text> 
+                $
+l.75         F = m\frac{v^2}{R}
+                               
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:75: Extra }, or forgotten $.
+\frac  #1#2->{\begingroup #1\endgroup \over #2}
+                                               
+l.75         F = m\frac{v^2}{R}
+                               
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:76: Extra }, or forgotten $.
+l.76         }
+                \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:77: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.77     \hline
+               
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:77: Missing $ inserted.
+<inserted text> 
+                $
+l.77     \hline
+               
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:77: Missing } inserted.
+<inserted text> 
+                }
+l.77     \hline
+               
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 73--77
+[]
+ []
+
+
+Overfull \hbox (12.94621pt too wide) in paragraph at lines 73--77
+[]$$[]$ 
+ []
+
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:79: LaTeX Error: \begin{document} ended by \end{tabularx}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.79 \end{tabularx}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:79: Missing } inserted.
+<inserted text> 
+                }
+l.79 \end{tabularx}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:79: Missing } inserted.
+<inserted text> 
+                }
+l.79 \end{tabularx}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/chapters/Force and motion/force-and-motion.tex:81: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.81 \end{document}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{C:/Users/surre/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] ("d:/Files\Documents\GitHub\ACSAI-sheet\physics-notes\chapters\Force and motion\force-and-motion.aux") ) 
+Here is how much of TeX's memory you used:
+ 27 strings out of 481225
+ 1125 string characters out of 2906174
+ 244094 words of memory out of 3000000
+ 15699 multiletter control sequences out of 15000+200000
+ 535088 words of font info for 29 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 19i,4n,15p,158b,95s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on "d:/Files\Documents\GitHub\ACSAI-sheet\physics-notes\chapters\Force and motion\force-and-motion.pdf" (1 page, 53161 bytes).
+PDF statistics:
+ 30 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
