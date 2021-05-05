@@ -1,0 +1,102 @@
+
+\documentclass{scrartcl} % This is the documentclass DONT-TOUCH-THIS
+
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{siunitx}
+\usepackage{nicefrac}
+\usepackage{tabularx}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+
+\newcommand{\tabeq}[1]{\parbox[c]{\hsize}{\begin{equation*}#1\end{equation*}}}
+
+\sisetup{
+    quotient-mode = fraction,
+    per-mode = fraction,
+    fraction-function=\nicefrac
+}
+
+% Defining the title of the doc.
+
+\begin{document}
+\section{Motion on straight line}\\
+
+\paragraph{Displacement}\\
+\begin{tabularx}{\textwidth} {l | X}
+    Law & Formula \\
+    \hline\hline
+    Displacement
+    & \tabeq{
+        \Delta x = x_{1} - x_{2}
+        } \\
+\end{tabularx}
+
+\paragraph{Speed  and  Velocity}\\
+\begin{tabularx}{\textwidth}{l | X}
+     Law & Formula  \\
+     \hline\hline
+     Average Speed & 
+     \tabeq{
+        s_{avg} = \frac{distance_{Tot}}{\Delta t}
+     }\\
+     \hline
+     Average Velocity & 
+     \tabeq{
+        v_{avg} = \frac{x_{2} - x_{1}}{t_{2} - t_{1}}
+     }\\
+     \hline
+     Instantaneous Velocity &
+     \tabeq{
+        v = \lim_{\Delta t \to_0}\frac{\Delta x}{\Delta t}
+     }\\
+\end{tabularx}
+
+\paragraph{Acceleration}\\
+\begin{tabularx} \textwidth{l | X} 
+    Law & Formula \\ 
+    \hline\hline
+    Average Acceleration & 
+    \tabeq{
+        a_{avg} = \frac{\Delta v}{\Delta t}
+    }\\
+    \hline
+    Instantaneous Acceleration & 
+    \tabeq{
+        a = \frac{dv}{dt} = \frac{d^2 x}{dt^2}
+    }\\
+\end{tabularx}
+
+\paragraph{Constant Acceleration}\\
+\begin{tabularx} \textwidth{l | X}
+    Law & Formula \\ 
+    \hline\hline
+    Missing \Delta x &
+    \tabeq{
+        v = v_{0} + at
+    }\\
+    \hline
+    Missing v &
+    \tabeq{
+        x - x_{0} = v_{0}t + \frac{1}{2}at^2
+    }\\
+    \hline
+    Missing t & 
+    \tabeq{
+        v^2 = v_{0}^2 + 2a(x - x_{0})
+    }\\
+    \hline
+    Missing a & 
+    \tabeq{
+        x - x_{0} = \frac{1}{2}(v_{0} + v)t
+    }\\
+    \hline
+    Missing v_{0} & 
+    \tabeq{
+        x - x_{0} = vt - \frac{1}{2}at^2
+    }\\
+        
+\end{tabularx}
+
+\end{document}
