@@ -1,27 +1,13 @@
-\documentclass{article}
-\usepackage[utf8]{inputenc}
-\usepackage{amsthm}
-\usepackage{amsmath}
-\usepackage{amssymb}
-\usepackage{siunitx}
-\usepackage{nicefrac}
-\usepackage{tabularx}
-\usepackage{graphicx}
-\usepackage{wrapfig}
-\usepackage{makecell}
 
-
-\begin{document}
 \section{Kinetic Energy and Work}
 \paragraph{Basic Definitions}\
 
 \begin{tabularx}{\textwidth}{l | X | l}
 Quantity & Equation & Units \\
-\hline \hline
- \hline
-Kinetic Energy & \begin{equation*}
+\hline
+Kinetic Energy & \tabeq{
 \frac{1}{2}mv^2   
-\end{equation*}
+}
 
  & J \\
  \hline
@@ -31,15 +17,15 @@ W =\begin{cases}
             \vec{F}^{} \cdot \vec{d}^{}
 		 \end{cases}$$ & $N \cdot m$, $J$ \\ 
  \hline
- Average Power & \begin{equation*} P_{\mathrm{avg} = \frac{W}{\Delta t}}\end{equation*} & $W$\\
+ Average Power & \tabeq{ P_{\mathrm{avg} = \frac{W}{\Delta t}}} & $W$\\
  \hline
- Instantaneous Power & \begin{equation*}
+ Instantaneous Power & \tabeq{
      P = \frac{dW}{dt}
- \end{equation*} & $W$ \\
+ } & $W$ \\
  \hline
- Spring Force & \begin{equation*}
+ Spring Force & \tabeq{
      F_s = -kx
- \end{equation*} & $N$ \\
+ } & $N$ \\
  \hline
 \end{tabularx}
 
@@ -48,25 +34,25 @@ W =\begin{cases}
 
 \begin{tabularx}{\textwidth}{l | X }
 Name & Equation \\
-\hline\hline
-Work-Kinetic Energy Theorem & \begin{equation*}
+\hline
+Work-Kinetic Energy Theorem & \tabeq{
     \Delta K = K_f - K_i = W
-\end{equation*} \
-\begin{equation*}
+} \
+\tabeq{
     K_f = K_i + W
-\end{equation*}\\
+}\\
 \hline
-Work Done by the Gravitational Force & \begin{equation*}
+Work Done by the Gravitational Force & \tabeq{
     W_g = mgd\cos \phi
-\end{equation*}\\
+}\\
 \hline
-Work Done in Lifting and Lowering an Object & \begin{equation*}
+Work Done in Lifting and Lowering an Object & \tabeq{
     \Delta K = K_f - K_i = W_a + W_g
-\end{equation*}\\
+}\\
 \hline
-Work Done by a Spring Force & \begin{equation*}
+Work Done by a Spring Force & \tabeq{
     W_s = \frac{1}{2}kx_i^2 - \frac{1}{2}kx_f^2
-\end{equation*} \\
+} \\
 \hline
 Work by a General Variable Force & $$
 W =\begin{cases}
@@ -75,10 +61,8 @@ W =\begin{cases}
 		 \end{cases}
 $$ \\
 \hline
-Instantaneous Power at an Angle $\phi$ & \begin{equation*}
+Instantaneous Power at an Angle $\phi$ & \tabeq{
     P = Fv \cos\phi = \vec{F}^{} \cdot \vec{v}^{}
-\end{equation*} \\
+} \\
 \hline
 \end{tabularx}
-
-\end{document}

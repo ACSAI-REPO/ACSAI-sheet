@@ -1,0 +1,30 @@
+
+%Done by Davide di Trocchio, 1940108, 5/12. 
+%This table follows (Halliday: 19.1, 19.2, last part of 19.9) as written on the elearning by the professor. 
+%It is based on benjamin's tables, just to have a standard to refer to. 
+%Further formulas were not included to reduce confusion. If necessary just say so, i'll add them ASAP
+%Also some of the equations do not have units, they need some fact-checking. ty <3
+%Note that \end{tabularx} throws an error, idk why but it builds just fine so i didn't bother much. 
+\section{Kinetic Theory of Gases}
+\paragraph{Basic Definitions}\
+
+\begin{tabularx}{\textwidth}{l | X | l}
+Quantity & Equation & Units \\
+\hline
+Avogadro's number & \tabeq{N_{A} = \num{6.02e23}} & $\si{\per\mole}$ \\\hline
+Universal Gas constant & \tabeq{R=\num{8.3145}} & $\si{\joule\per\mole\per\kelvin}$ \\\hline
+Boltzmann's constant & \tabeq{k_B = \frac{R}{N_A} = \num{1.38e-23}} & $\si{\joule\per\kelvin}$ \\\hline
+Mole & \tabeq{M = mN_A}& $\si{\mole}$ \\\hline
+Number of moles & \tabeq{n = \frac{N}{N_A} = \frac{M_\mathrm{sam}}{M} = \frac{M_\mathrm{sam}}{mN_A}}& $\si{\mole}$ \\\hline
+Ideal Gas Law & \tabeq{pV = nRT} & \\\hline
+Ideal Gas Law by Boltzmann's constant & \tabeq{pV = N_A k_BT} & \\\hline
+Free Expansion (adiabatic and isothermal) & \tabeq{pV = \mbox{constant}}\\\hline
+\end{tabularx}
+\paragraph{Applications}\
+
+\begin{tabularx}{\textwidth}{l | X }
+Name & Equation\\\hline
+Work done by an Ideal Gas &\tabeq{W = nRT\ln{\frac{V_f}{V_i}}}\\\hline
+\dots at constant volume & \tabeq{W = 0}\\\hline
+\dots at constant pressure & \tabeq{W = p\int_{V_i}^{V_f} \ dV = p\Delta V}\\\hline
+\end{tabularx}
