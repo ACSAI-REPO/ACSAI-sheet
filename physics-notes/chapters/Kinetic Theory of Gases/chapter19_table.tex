@@ -1,0 +1,92 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{siunitx}
+\usepackage{nicefrac}
+\usepackage{tabularx}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{makecell}
+
+%Done by Davide di Trocchio, 1940108, 5/12. 
+%This table follows (Halliday: 19.1, 19.2, last part of 19.9) as written on the elearning by the professor. 
+%It is based on benjamin's tables, just to have a standard to refer to. 
+%Further formulas were not included to reduce confusion. If necessary just say so, i'll add them ASAP
+%Also some of the equations do not have units, they need some fact-checking. ty <3
+%Note that \end{tabularx} throws an error, idk why but it builds just fine so i didn't bother much. 
+
+\begin{document}
+\section{Kinetic Theory of Gases}
+\paragraph{Basic Definitions}\
+
+\begin{tabularx}{\textwidth}{l | X | l}
+Quantity & Equation & Units \\
+\hline \hline
+ \hline
+N_{A} (Avogadro's number) & \begin{equation*}
+\num{6.02e23}  
+\end{equation*}
+
+ & mol^-^1  \\
+ \hline
+
+Mole & \begin{equation*}
+    M = mN_A
+    \end{equation*}
+    
+     & mol \\
+     \hline
+
+Number of moles & \begin{equation*}
+    \emph{n} = \frac{\emph{N}}{N_A} = \frac{\emph{M\mathrm{sam}}}{M} = \frac{\emph{M\mathrm{sam}}}{mN_A}
+    \end{equation*}
+    
+     & mol \\
+     \hline
+
+ Ideal Gas Law & \begin{equation*} 
+    pV = nRT 
+ \end{equation*} & \\
+\hline
+
+ Boltzmann constants' Ideal Gas Law & \begin{equation*}
+    pV = NkT
+\end{equation*} & \\
+\hline
+
+ k (Boltzmann constant) & \begin{equation*}
+     P = \frac{R}{N_A} = \num{1.38e-23}
+ \end{equation*} & $J/K$ \\
+ \hline
+
+ Slow Adiabatic Volume Change & \begin{equation*}
+    pV^\gamma = a\:constant
+\end{equation*} \
+\begin{equation*}
+    \gamma = \frac{C_p}{C_V}
+\end{equation*}\\
+\hline
+
+Free Expansion & \begin{equation*}
+    pV = a\:constant.
+\end{equation*} \\
+\hline
+
+\end{tabularx}
+
+
+\paragraph{Applications}\
+
+\begin{tabularx}{\textwidth}{l | X }
+Name & Equation \\
+\hline\hline
+
+Work done by an Ideal Gas & \begin{equation*}
+    W = nRT\ln{\frac{V_f}{V_i}}
+\end{equation*} & \\
+\hline
+\end{tabularx}
+
+\end{document}
