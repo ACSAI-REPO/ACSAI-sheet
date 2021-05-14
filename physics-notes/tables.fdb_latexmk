@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1621000005 "d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/tables.tex" "d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/tables.pdf" "tables" 1621000008
+["pdflatex"] 1621000353 "d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/tables.tex" "d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/tables.pdf" "tables" 1621000356
   "C:/Users/surre/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1596033721 10051121 4c44397a6dcd52bc96aa98c74adc1a23 ""
   "C:/Users/surre/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1620751514 327672 99218123e1cc95b3ee430511654f9cce ""
   "C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1001775420 2900 1537cc8184ad1792082cd229ecc269f4 ""
@@ -87,7 +87,7 @@
   "C:/Users/surre/AppData/Local/Programs/MiKTeX/tex/latex/units/nicefrac.sty" 1469029150 4163 0462ee5ab265cf59dc15a41a3b883101 ""
   "C:/Users/surre/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044406800 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/surre/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585224860 8510 7803f78066c4f9d008405191a4b43073 ""
-  "chapters/1D-Motion/1dmotion.tex" 1621000005 1668 8582d652664714af7fa3f1f4b083f573 ""
+  "chapters/1D-Motion/1dmotion.tex" 1621000352 1677 d4cfc9f73c8a0204194f72fd2d922111 ""
   "chapters/2D-3D-Motion/2d-3d-motion_table.tex" 1620853971 3103 4b324d86173acc65da8a1fa846576cbd ""
   "chapters/Force and motion/force-and-motion.tex" 1620999937 1443 2b6ae73b9491ed0e0dabf0bf59726dd8 ""
   "chapters/Gauss-Law/gauss-law-table.tex" 1620999817 1156 41b60dd74607d581ff3ac30ace0e1a8b ""
@@ -98,13 +98,13 @@
   "chapters/Rotation/rotation_table.tex" 1620998770 2072 8137314b33efe0eea16765d1f6ec955b ""
   "chapters/vectors/images/right_hand_rule.pdf" 1618754455 4860 8e4f1642afeadb8a69c35c5bc04e9a01 ""
   "chapters/vectors/vectors_table.tex" 1619028836 3176 2f5b750e01edf33f2e29b1dd815ddd6e ""
-  "d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/tables.aux" 1621000008 4253 ab1f6d0f4687710b5ff692002ae3c400 ""
+  "d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/tables.aux" 1621000356 4253 ab1f6d0f4687710b5ff692002ae3c400 ""
   "d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/tables.tex" 1620997289 1591 4b0726bc6b1d6a6bcc512807b2ad1ccf ""
-  "tables.aux" 1621000008 4253 ab1f6d0f4687710b5ff692002ae3c400 "pdflatex"
+  "tables.aux" 1621000356 4253 ab1f6d0f4687710b5ff692002ae3c400 "pdflatex"
   "tables.tex" 1620997289 1591 4b0726bc6b1d6a6bcc512807b2ad1ccf ""
   (generated)
-  "d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/tables.log"
-  "tables.pdf"
-  "tables.log"
-  "tables.aux"
   "d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/tables.pdf"
+  "tables.aux"
+  "d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/tables.log"
+  "tables.log"
+  "tables.pdf"
