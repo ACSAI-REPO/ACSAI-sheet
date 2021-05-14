@@ -4,28 +4,20 @@
 
 \begin{tabularx}{\textwidth}{l | X | l}
 Quantity & Equation & Units \\
-\hline
-Kinetic Energy & \tabeq{
-\frac{1}{2}mv^2   
-}
-
- & J \\
+\hline\hline
+Kinetic Energy & \tabeq{\frac{1}{2}mv^2}& J \\
  \hline
-Work Done by a Constant Force & $$
-W =\begin{cases}
-			Fd \cos\phi\\
-            \vec{F}^{} \cdot \vec{d}^{}
-		 \end{cases}$$ & $N \cdot m$, $J$ \\ 
+\makecell[l]{Work Done by a\\Constant Force} &\tabeq{W=\vec{F}\cdot \vec{d}= Fd \cos\phi} & $\si{\newton\times\metre}=\si{\joule}$ \\ 
  \hline
- Average Power & \tabeq{ P_{\mathrm{avg} = \frac{W}{\Delta t}}} & $W$\\
+ Average Power & \tabeq{ P_{\mathrm{avg} = \frac{W}{\Delta t}}} & $\si{\watt}$\\
  \hline
  Instantaneous Power & \tabeq{
      P = \frac{dW}{dt}
- } & $W$ \\
+ } & $\si{\watt}$ \\
  \hline
  Spring Force & \tabeq{
      F_s = -kx
- } & $N$ \\
+ } & $\si{\newton}$ \\
  \hline
 \end{tabularx}
 
@@ -34,35 +26,22 @@ W =\begin{cases}
 
 \begin{tabularx}{\textwidth}{l | X }
 Name & Equation \\
+\hline\hline
+\makecell[l]{Work-Kinetic Energy Theorem} &\tabeq{\Delta K = K_f - K_i = W}\\
 \hline
-Work-Kinetic Energy Theorem & \tabeq{
-    \Delta K = K_f - K_i = W
-} \
-\tabeq{
-    K_f = K_i + W
-}\\
+\makecell[l]{Work fone by the\\Gravitational Force }& \tabeq{
+    W_g =\vec{F}_g\cdot\vec{d}=mgd\cos \phi}\\
 \hline
-Work Done by the Gravitational Force & \tabeq{
-    W_g = mgd\cos \phi
-}\\
-\hline
-Work Done in Lifting and Lowering an Object & \tabeq{
+\makecell[l]{Work done in lifting\\and lowering an object}& \tabeq{
     \Delta K = K_f - K_i = W_a + W_g
 }\\
 \hline
-Work Done by a Spring Force & \tabeq{
-    W_s = \frac{1}{2}kx_i^2 - \frac{1}{2}kx_f^2
-} \\
+\makecell[l]{Work done by a Spring force}& \tabeq{
+    W_s = \frac{1}{2}kx_i^2 - \frac{1}{2}kx_f^2} \\
 \hline
-Work by a General Variable Force & $$
-W =\begin{cases}
-			\int_{x_i}^{x_f} F (x) \,dx\\
-            \int_{x_i}^{x_f} F_x \,dx + \int_{y_i}^{y_f} F_y \,dy \\ + \int_{z_i}^{z_f} F_z \,dz
-		 \end{cases}
-$$ \\
+\makecell[l]{Work by a general\\variable force}& \tabeq{W =\begin{cases} \int_{x_i}^{x_f} F (x) \, dx\\
+    \int_{x_i}^{x_f} F_x \, dx + \int_{y_i}^{y_f} F_y \, dy + \int_{z_i}^{z_f} F_z \, dz \end{cases}}\\
 \hline
-Instantaneous Power at an Angle $\phi$ & \tabeq{
-    P = Fv \cos\phi = \vec{F}^{} \cdot \vec{v}^{}
-} \\
+\makecell[l]{Instantaneous Power\\at an angle $\phi$}& \tabeq{P =\vec{F} \cdot \vec{v}= Fv \cos\phi} \\
 \hline
 \end{tabularx}
