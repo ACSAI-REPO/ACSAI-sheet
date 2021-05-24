@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1621000353 "d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/tables.tex" "d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/tables.pdf" "tables" 1621000356
+["pdflatex"] 1621529521 "d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/tables.tex" "d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/tables.pdf" "tables" 1621529747
   "C:/Users/surre/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1596033721 10051121 4c44397a6dcd52bc96aa98c74adc1a23 ""
   "C:/Users/surre/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1620751514 327672 99218123e1cc95b3ee430511654f9cce ""
   "C:/Users/surre/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1001775420 2900 1537cc8184ad1792082cd229ecc269f4 ""
@@ -93,18 +93,18 @@
   "chapters/Gauss-Law/gauss-law-table.tex" 1620999817 1156 41b60dd74607d581ff3ac30ace0e1a8b ""
   "chapters/Gravitation/gravitation.tex" 1619541077 1815 3beb28bb3f35eacc997644e0fee493ee ""
   "chapters/Kinetic Theory of Gases/Kinetic-gases.tex" 1620999796 1709 b3dc3b5eb68abd919d3841185e03c115 ""
-  "chapters/Kinetic-energy-and-Work/chapter7_table.tex" 1620999764 1517 8da29ab0edd42fc40b5c7d059c3be2d1 ""
+  "chapters/Kinetic-energy-and-Work/chapter7_table.tex" 1621529746 1517 2d3dd0cc66cb216948cdd5ebc960ec06 ""
   "chapters/Measurements/measurements_table.tex" 1619027714 2192 ba2b16d93391ff786a1a529a35aa85b9 ""
   "chapters/Rotation/rotation_table.tex" 1620998770 2072 8137314b33efe0eea16765d1f6ec955b ""
   "chapters/vectors/images/right_hand_rule.pdf" 1618754455 4860 8e4f1642afeadb8a69c35c5bc04e9a01 ""
   "chapters/vectors/vectors_table.tex" 1619028836 3176 2f5b750e01edf33f2e29b1dd815ddd6e ""
-  "d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/tables.aux" 1621000356 4253 ab1f6d0f4687710b5ff692002ae3c400 ""
+  "d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/tables.aux" 1621529524 4253 ab1f6d0f4687710b5ff692002ae3c400 ""
   "d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/tables.tex" 1620997289 1591 4b0726bc6b1d6a6bcc512807b2ad1ccf ""
-  "tables.aux" 1621000356 4253 ab1f6d0f4687710b5ff692002ae3c400 "pdflatex"
+  "tables.aux" 1621529524 4253 ab1f6d0f4687710b5ff692002ae3c400 "pdflatex"
   "tables.tex" 1620997289 1591 4b0726bc6b1d6a6bcc512807b2ad1ccf ""
   (generated)
   "d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/tables.pdf"
-  "tables.aux"
-  "d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/tables.log"
   "tables.log"
   "tables.pdf"
+  "d:/Files/Documents/GitHub/ACSAI-sheet/physics-notes/tables.log"
+  "tables.aux"
